@@ -1,9 +1,10 @@
 ---
 layout: page
-permalink: /miscellaneous/
-title: Miscellaneous
+permalink: /miscellanea/
+title: Miscellanea
+description: 
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <b>Useful Links</b>

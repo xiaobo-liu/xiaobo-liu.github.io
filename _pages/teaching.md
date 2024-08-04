@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description: List of my previous and current teaching activities.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
-<b>Graduate Teaching Assistant (University of Manchester):</b>
+<b>Graduate Teaching Assistant at The University of Manchester:</b>
 <ul>
 
 <li> 2021/22 S2 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10242">MATH10242</a> Sequences and Series, <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022">MATH36022</a> Numerical Analysis II</li>
@@ -20,7 +20,7 @@ nav_order: 4
 
 <li> 2019/20 S2 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20602">MATH20602</a> Numerical Analysis I, <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022">MATH36022</a> Numerical Analysis II</li>
 
-<li> 2019/20 S1 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19661">MATH19661</a> Mathematics for Mechanical, Aerospace and Civil Engineering, <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19681">MATH19681</a> Mathematics for Electrical and Electronic Engineering</li>
+<li> 2019/20 S1 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19661">MATH19661</a> Mathematics for MACE, <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19681">MATH19681</a> Mathematics for EEE</li>
 
 <li> 2018/19 S2 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10222">MATH10222</a> Calculus and Applications A, <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022">MATH36022</a> Numerical Analysis II</li>
 

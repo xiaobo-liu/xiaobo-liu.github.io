@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /conferences/
-title: Conferences and Presentations
-description: List of upcoming and past conferences and workshops attended (some with a presentation); some of the external links may have expired.
+title: Conferences
+description: List of Upcoming and past conferences and workshops I attended (in reverse chronological order).
 nav: true
 nav_order: 3
 ---
