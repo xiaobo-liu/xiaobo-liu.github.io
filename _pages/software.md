@@ -10,7 +10,7 @@ nav_order: 2
 <ul>
 
 <li> <b>mp-cosm</b><br>
-Arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative. 
+A MATLAB implementation of arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative. 
 <a href="https://github.com/xiaobo-liu/mp-cosm">Source code (GitHub)</a>.</li>
 <br>
 
