@@ -9,7 +9,7 @@ profile:
   image: myprofile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>MPI-DCTS, Sandtorstr. 1 </p>
+    <p>MPI-DCTS, Sandtorstraße 1</p>
     <p>39106 Magdeburg, Germany</p>
 
 news: true # includes a list of news items
@@ -21,4 +21,6 @@ Welcome to the homepage of Xiaobo Liu, a postdoctoral researcher in the [Computa
 
 Prior to moving to Magdeburg, I was a research associate (Aug 2022-Dec 2023) in the [Numerical Linear Algebra Group (NLA Group)](https://nla-group.org/) at [The University of Manchester](https://www.manchester.ac.uk/), working with [Prof. Nicholas J. Higham](https://nhigham.com). I completed my PhD (Sep 2018-Jun 2022) in the [Department of Mathematics](https://www.maths.manchester.ac.uk/) at The University of Manchester under the supervision of [Prof. Nicholas J. Higham](https://nhigham.com) and [Prof. Françoise Tisseur](https://personal.maths.manchester.ac.uk/tisseur/).
 
-My main research interests are in [Numerical Analysis](https://www.maths.manchester.ac.uk/research/themes/numerical-analysis-and-scientific-computing/) and [Numerical Linear Algebra](https://www.maths.manchester.ac.uk/research/expertise/numerical-linear-algebra/), including the design, development, and analysis of numerical algorithms (possibly) utilizing [mixed-precision arithmetic](https://en.wikipedia.org/wiki/Mixed-precision_arithmetic). 
+I work on [Numerical Analysis](https://www.maths.manchester.ac.uk/research/themes/numerical-analysis-and-scientific-computing/) and [Numerical Linear Algebra](https://www.maths.manchester.ac.uk/research/expertise/numerical-linear-algebra/), including the design, development, and analysis of numerical algorithms (possibly) utilizing [mixed-precision arithmetic](https://en.wikipedia.org/wiki/Mixed-precision_arithmetic). 
+
+Feel free to contact me for potential collaboration or discussion on research problems within my area of expertise. Here is a [.bib file](https://github.com/xiaobo-liu/xliu-bib/blob/main/xliu-bib.bib) that contains papers and preprints that I have (co-)authored.
