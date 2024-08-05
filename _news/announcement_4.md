@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-10-20 15:59:00-0400
+date: 2024-01-01 15:59:00-0400
 inline: true
 ---
 
-Test announcement 4.
+I finished my contract in the [NLA Group](https://nla-group.org/) at The University of Manchester and joined the [CSC group](https://www.mpi-magdeburg.mpg.de/csc) at [MPI-DCTS](https://www.mpi-magdeburg.mpg.de/2316/en) to work with [Prof. Peter Benner](https://www.mpi-magdeburg.mpg.de/benner).

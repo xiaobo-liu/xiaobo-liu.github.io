@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-12-27 07:59:00-0400
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+New preprint on [Mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices](https://arxiv.org/abs/2312.17396).

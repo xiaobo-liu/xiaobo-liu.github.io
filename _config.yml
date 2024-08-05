@@ -47,7 +47,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 860px
+max_width: 930px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -194,7 +194,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 4 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
