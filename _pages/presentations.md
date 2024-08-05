@@ -14,7 +14,7 @@ nav_order: 4
 <p> </p>
 
 <li><a href="../assets/pdf/talk-IMA-NLAO22.pdf">Computing the Square Root of a Low-Rank Perturbation of the Scaled Identity Matrix</a>. 7th IMA Conference on Numerical Linear Algebra and
-Optimization, University of Birmingham, Birmingham, UK, June 29-July 1, 2022.
+Optimization, University of Birmingham, Birmingham, UK, June 30, 2022.
 </li>
 <p> </p>
 

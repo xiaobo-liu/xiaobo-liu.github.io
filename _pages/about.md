@@ -9,7 +9,7 @@ profile:
   image: myprofile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>S3.11, MPI-DCTS, sandtorstraße 1,</p>
+    <p>S3.11, MPI-DCTS, sandtorstr. 1</p>
     <p>39106 Magdeburg, Germany</p>
 
 news: true # includes a list of news items

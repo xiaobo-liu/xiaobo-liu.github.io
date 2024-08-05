@@ -45,7 +45,7 @@ MATLAB implementation of arbitrary precision algorithms for computing the matrix
 <br>
 
 <li> <b>mp-spalg</b><br>
-MATLAB implementation of a multiprecision Schur-Parlett algorithm for computing functions of a square matrix without using derivatives of the underlying function.
+MATLAB implementation of a multiprecision Schur--Parlett algorithm for computing functions of a square matrix without using derivatives of the underlying function.
 <a href="https://github.com/xiaobo-liu/mp-spalg">Source code (GitHub)</a>.</li>
 <br>
 
