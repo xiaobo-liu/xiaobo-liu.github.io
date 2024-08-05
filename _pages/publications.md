@@ -11,11 +11,11 @@ nav_order: 1
 
 <ul>
 
-<li> [3p] <a href="https://arxiv.org/abs/2407.21637">Mixed precision HODLR matrices</a> (with E. Carson and X. Chen). arXiv:2407.21637 [math.NA], July 2024.</li>
+<li> [3p] <a href="https://arxiv.org/abs/2407.21637">Mixed precision HODLR matrices</a> (with E. Carson and X. Chen). ArXiv:2407.21637 [math.NA], July 2024.</li>
 
-<li> [2p] <a href="https://arxiv.org/abs/2407.12208">Computing k-means in mixed precision</a> (with E. Carson and X. Chen). arXiv:2407.12208 [math.NA], July 2024.</li>
+<li> [2p] <a href="https://arxiv.org/abs/2407.12208">Computing k-means in mixed precision</a> (with E. Carson and X. Chen). ArXiv:2407.12208 [math.NA], July 2024.</li>
 
-<li> [1p] <a href="https://arxiv.org/abs/2312.17396v2">Mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices.</a> arXiv:2312.17396v2 [math.NA], Dec 2023; revised July 2024.</li>
+<li> [1p] <a href="https://arxiv.org/abs/2312.17396v2">Mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices</a>. ArXiv:2312.17396v2 [math.NA], Dec 2023; revised July 2024.</li>
 
 
 </ul>
@@ -36,7 +36,7 @@ nav_order: 1
 
 <ul>
 
-<li> [1t] <a href="https://eprints.maths.manchester.ac.uk/2883/">On the cross-shaped matrices.</a> MIMS EPrint 2023.1, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, Jan 2023.</li>
+<li> [1t] <a href="https://eprints.maths.manchester.ac.uk/2883/">On the cross-shaped matrices</a>. MIMS EPrint 2023.1, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, Jan 2023.</li>
 
 </ul>
 
@@ -44,6 +44,6 @@ nav_order: 1
 
 <ul>
 
-<li> <a href="https://research.manchester.ac.uk/en/studentTheses/computing-matrix-functions-in-arbitrary-precision-arithmetic-2">Computing matrix functions in arbitrary precision arithmetic.</a> Ph.D. Thesis, Department of Mathematics, The University of Manchester, Manchester, UK, June 2022.</li>
+<li> <a href="https://research.manchester.ac.uk/en/studentTheses/computing-matrix-functions-in-arbitrary-precision-arithmetic-2"><i>Computing Matrix Functions in Arbitrary Precision Arithmetic</i></a>. Ph.D. Thesis, Department of Mathematics, The University of Manchester, Manchester, UK, June 2022.</li>
 
 </ul>

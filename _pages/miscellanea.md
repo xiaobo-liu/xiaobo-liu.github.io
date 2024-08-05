@@ -30,7 +30,7 @@ nav_order: 6
 
 <ul>
 
-<li><a href="https://research.tue.nl/en/persons/pascal-den-boef">Pascal den Boef</a>, Doctoral Candidate in Electrical Engineering Department, TU Eindhoven University of Technology, The Netherlands.</li>
+<li><a href="https://research.tue.nl/en/persons/pascal-den-boef">Pascal den Boef</a>, Doctoral Candidate in Electrical Engineering Department, Eindhoven University of Technology, The Netherlands.</li>
 
 <li><a href="https://www.karlin.mff.cuni.cz/~carson/">Dr. Erin Carson</a>, Assistant Professor in Department of Numerical Mathematics, Charles University, Czech Republic.</li>
 
