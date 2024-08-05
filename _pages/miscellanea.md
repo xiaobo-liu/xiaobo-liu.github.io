@@ -30,17 +30,17 @@ nav_order: 6
 
 <ul>
 
-<li><a href="https://research.tue.nl/en/persons/pascal-den-boef">Pascal den Boef</a>, Doctoral Candidate in Electrical Engineering Department, Eindhoven University of Technology, The Netherlands.</li>
+<li><a href="https://research.tue.nl/en/persons/pascal-den-boef">Pascal den Boef</a>, Doctoral Candidate in Electrical Engineering Department, TU Eindhoven University of Technology, The Netherlands.</li>
 
 <li><a href="https://www.karlin.mff.cuni.cz/~carson/">Dr. Erin Carson</a>, Assistant Professor in Department of Numerical Mathematics, Charles University, Czech Republic.</li>
 
 <li><a href="https://xinyechen.com/">Dr. Xinye Chen</a>, Research Associate in Department of Numerical Mathematics, Charles University, Czech Republic.</li>
 
-<li><a href="https://eps.leeds.ac.uk/computing/staff/14034/massimiliano-fasi">Dr. Massimiliano Fasi</a>, Lecturer in School of Computing, University of Leeds, UK</li>
+<li><a href="https://eps.leeds.ac.uk/computing/staff/14034/massimiliano-fasi">Dr. Massimiliano Fasi</a>, Lecturer in School of Computing, University of Leeds, UK.</li>
 
 <li><a href="https://www.katlund.com/">Dr. Kathryn Lund</a>, Senior Computational Mathematician at STFC Rutherford Appleton Laboratory, UK.</li>
 
-<li><a href="https://mmikaitis.github.io/">Dr. Mantas Mikaitis</a>, Lecturer in School of Computing, University of Leeds, UK</li>
+<li><a href="https://mmikaitis.github.io/">Dr. Mantas Mikaitis</a>, Lecturer in School of Computing, University of Leeds, UK.</li>
 
 <li><a href="https://bvieuble.github.io/">Dr. Bastien Vieublé</a>, Research Associate in Academy of Mathematics and Systems Science, Chinese Academy of Sciences, China.</li>
 
