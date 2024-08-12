@@ -12,7 +12,27 @@ nav_order: 6
 <p>My <a href="https://www.mathgenealogy.org/id.php?id=306215">Mathematics Genealogy Project entry</a>.</p>
 
 
-<b>Useful resources</b>
+<b>MATLAB toolbox</b>
+
+<ul>
+
+<li><a href="https://uk.mathworks.com/matlabcentral/fileexchange/2360-the-matrix-computation-toolbox">The Matrix Computation Toolbox</a></li>
+
+<li><a href="https://uk.mathworks.com/matlabcentral/fileexchange/20820-the-matrix-function-toolbox">The Matrix Function Toolbox</a></li>
+
+<li><a href="https://github.com/higham/chop">Chop</a>, for rounding matrix elements to lower precision</li>
+
+<li><a href="https://github.com/mmikaitis/anymatrix">Anymatrix</a> matrix collection</li>
+
+<li><a href="https://www.mpi-magdeburg.mpg.de/projects/morlab">MORLAB</a>, Model Order Reduction LABoratory</li>
+
+<li><a href="https://www.mpi-magdeburg.mpg.de/projects/mess">M.E.S.S.</a>, Matrix Equation Sparse Solver</li>
+
+<li><a href="https://www.advanpix.com/">Advanpix</a> multiprecision computing toolbox</li>
+
+</ul>
+
+<b>Other resources</b>
 
 <ul>
 
@@ -23,27 +43,5 @@ nav_order: 6
 <li><a href="https://mhodlr.readthedocs.io/en/latest/index.html">Documentation webpage</a> of the <a href="https://xiaobo-liu.github.io/software/">mhodlr</a> toolbox (MATLAB).</li>
 
 <li><a href="https://bvieuble.github.io/texfantasy/">TeXFantasy</a>, a gallery of LaTeX figures and tables.</li>
-
-</ul>
-
-<b>Websites of some colleagues</b>
-
-<ul>
-
-<li><a href="https://research.tue.nl/en/persons/pascal-den-boef">Pascal den Boef</a>, Doctoral Candidate in Electrical Engineering Department, Eindhoven University of Technology, The Netherlands.</li>
-
-<li><a href="https://www.karlin.mff.cuni.cz/~carson/">Dr. Erin Carson</a>, Assistant Professor in Department of Numerical Mathematics, Charles University, Czech Republic.</li>
-
-<li><a href="https://xinyechen.com/">Dr. Xinye Chen</a>, Research Associate in Department of Numerical Mathematics, Charles University, Czech Republic.</li>
-
-<li><a href="https://eps.leeds.ac.uk/computing/staff/14034/massimiliano-fasi">Dr. Massimiliano Fasi</a>, Lecturer in School of Computing, University of Leeds, UK.</li>
-
-<li><a href="https://www.katlund.com/">Dr. Kathryn Lund</a>, Senior Computational Mathematician at STFC Rutherford Appleton Laboratory, UK.</li>
-
-<li><a href="https://mmikaitis.github.io/">Dr. Mantas Mikaitis</a>, Lecturer in School of Computing, University of Leeds, UK.</li>
-
-<li><a href="https://bvieuble.github.io/">Dr. Bastien Vieublé</a>, Research Associate in Academy of Mathematics and Systems Science, Chinese Academy of Sciences, China.</li>
-
-<li><a href="https://zbzhou.com/">Zhengbo Zhou</a>, Doctoral Candidate in Department of Mathematics, The University of Manchester, UK.</li>
 
 </ul>
