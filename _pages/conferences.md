@@ -20,17 +20,17 @@ nav_order: 3
 <li><a href="https://jahrestagung.gamm.org/annual-meeting-2025/95th-annual-meeting-2/">GAMM 95th Annual Meeting</a>. Poznań, Poland, April 7--11, 2025.
 </li>
 
-<li><a href="https://www.uni-goettingen.de/en/687071.html">GAMM Workshop on Applied and Numerical Linear Algebra 2024</a>. Göttingen, Germany, Sep 23--24, 2024.
-</li>
-
-<li><a href="https://www.math.unipd.it/~cirm24/">Numerical Linear Algebra Conference</a>. CIRM-Luminy, Marseille, France, Sep 16--20, 2024.
-</li>
-
 </ul>
 
 <b>Past Conferences:</b>
 
 <ul>
+
+<li><a href="https://www.uni-goettingen.de/en/687071.html">GAMM Workshop on Applied and Numerical Linear Algebra 2024</a>. Göttingen, Germany, Sep 23--24, 2024.
+</li>
+
+<li><a href="https://www.math.unipd.it/~cirm24/">Numerical Linear Algebra Conference</a>. CIRM-Luminy, Marseille, France, Sep 16--20, 2024.
+</li>
 
 <li><a href="https://www.siam.org/conferences-events/past-event-archive/la24/">SIAM Conference on Applied Linear Algebra</a> (LA24). Sorbonne Université, Paris, France, May 13--17, 2024.
 </li>
