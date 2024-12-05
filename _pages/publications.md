@@ -15,7 +15,7 @@ nav_order: 1
 
 <li> [2p] <a href="https://arxiv.org/abs/2407.12208">Computing k-means in mixed precision</a> (with E. Carson and X. Chen). ArXiv:2407.12208 [math.NA], July 2024.</li>
 
-<li> [1p] <a href="https://arxiv.org/abs/2312.17396v2">Mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices</a>. ArXiv:2312.17396v2 [math.NA], Dec 2023; revised July 2024.</li>
+<li> [1p] <a href="https://arxiv.org/abs/2312.17396">Mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices</a>. ArXiv:2312.17396 [math.NA], December 2023; revised November 2024. To appear in SIAM J. Matrix Anal. Appl.</li>
 
 
 </ul>
@@ -36,7 +36,7 @@ nav_order: 1
 
 <ul>
 
-<li> [1t] <a href="https://eprints.maths.manchester.ac.uk/2883/">On the cross-shaped matrices</a>. MIMS EPrint 2023.1, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, Jan 2023.</li>
+<li> [1t] <a href="https://eprints.maths.manchester.ac.uk/2883/">On the cross-shaped matrices</a>. MIMS EPrint 2023.1, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, January 2023.</li>
 
 </ul>
 

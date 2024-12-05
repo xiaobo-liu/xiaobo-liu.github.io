@@ -2,7 +2,7 @@
 layout: page
 permalink: /conferences/
 title: Conferences
-description: List of upcoming and past (attended) conferences and workshops (in reverse chronological order).
+description: List of upcoming conferences and workshops (that I may attend) and past (attended) events (in reverse chronological order).
 nav: true
 nav_order: 3
 ---
