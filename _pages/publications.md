@@ -11,7 +11,7 @@ nav_order: 1
 
 <ul>
 
-<li> [3p] <a href="https://arxiv.org/abs/2407.21637">Mixed precision HODLR matrices</a> (with E. Carson and X. Chen). ArXiv:2407.21637 [math.NA], July 2024.</li>
+<li> [3p] <a href="https://arxiv.org/abs/2407.21637">Mixed precision HODLR matrices</a> (with E. Carson and X. Chen). ArXiv:2407.21637 [math.NA], July 2024; revised December 2024. To appear in SIAM J. Sci. Comput.</li>
 
 <li> [2p] <a href="https://arxiv.org/abs/2407.12208">Computing k-means in mixed precision</a> (with E. Carson and X. Chen). ArXiv:2407.12208 [math.NA], July 2024.</li>
 
