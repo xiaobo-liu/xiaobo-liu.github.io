@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Links to published articles in peer-reviewed journals, preprints, and PhD thesis.
+description: Links to published articles in peer-reviewed journals, preprints, and my PhD thesis.
 nav: true
 nav_order: 1
 ---
@@ -10,6 +10,8 @@ nav_order: 1
 <font size="5">Latest preprints</font>
 
 <ul>
+
+<li> [4p] <a href="https://arxiv.org/abs/2502.09165">Generalizing reduced rank extrapolation to low-rank matrix sequences</a> (with P. den Boef, P. Kürschner, J. Maubach, J. Saak, W. Schilders, J. Schulze, and N. van de Wouw). ArXiv:2502.09165 [math.NA], February 2025.</li>
 
 <li> [3p] <a href="https://arxiv.org/abs/2407.21637">Mixed precision HODLR matrices</a> (with E. Carson and X. Chen). ArXiv:2407.21637 [math.NA], July 2024; revised December 2024. To appear in SIAM J. Sci. Comput.</li>
 
