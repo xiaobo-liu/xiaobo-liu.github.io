@@ -9,6 +9,9 @@ nav_order: 4
 
 <ul>
 
+<li><a href="../assets/pdf/poster-CIRM-NLAC24.pdf">Mixed-precision Algorithms for Sylvester Equations</a>. Numerical Linear Algebra Conference, CIRM-Luminy, Marseille, France, Sep 18, 2024.
+</li>
+
 <li><a href="../assets/pdf/talk-SIAMLA24.pdf">Mixed-Precision Paterson–Stockmeyer Method for Evaluating Polynomials of Matrices</a>. SIAM Conference on Applied Linear Algebra, Sorbonne Université, Paris, France, May 17, 2024.
 </li>
 

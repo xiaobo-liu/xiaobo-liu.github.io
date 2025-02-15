@@ -11,20 +11,19 @@ nav_order: 1
 
 <ul>
 
-<li> [4p] <a href="https://arxiv.org/abs/2502.09165">Generalizing reduced rank extrapolation to low-rank matrix sequences</a> (with P. den Boef, P. Kürschner, J. Maubach, J. Saak, W. Schilders, J. Schulze, and N. van de Wouw). ArXiv:2502.09165 [math.NA], February 2025.</li>
+<li> [2p] <a href="https://arxiv.org/abs/2502.09165">Generalizing reduced rank extrapolation to low-rank matrix sequences</a> (with P. den Boef, P. Kürschner, J. Maubach, J. Saak, W. Schilders, J. Schulze, and N. van de Wouw). ArXiv:2502.09165 [math.NA], February 2025.</li>
 
-<li> [3p] <a href="https://arxiv.org/abs/2407.21637">Mixed precision HODLR matrices</a> (with E. Carson and X. Chen). ArXiv:2407.21637 [math.NA], July 2024; revised December 2024. To appear in SIAM J. Sci. Comput.</li>
-
-<li> [2p] <a href="https://arxiv.org/abs/2407.12208">Computing k-means in mixed precision</a> (with E. Carson and X. Chen). ArXiv:2407.12208 [math.NA], July 2024.</li>
-
-<li> [1p] <a href="https://arxiv.org/abs/2312.17396">Mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices</a>. ArXiv:2312.17396 [math.NA], December 2023; revised November 2024. To appear in SIAM J. Matrix Anal. Appl.</li>
-
+<li> [1p] <a href="https://arxiv.org/abs/2407.12208">Computing k-means in mixed precision</a> (with E. Carson and X. Chen). ArXiv:2407.12208 [math.NA], July 2024.</li>
 
 </ul>
 
 <font size="5">Refereed journal articles</font>
 
 <ul>
+
+<li> [5] <a href="https://arxiv.org/abs/2407.21637">Mixed precision HODLR matrices</a> (with E. Carson and X. Chen). SIAM J. Sci. Comput., To appear.</li>
+
+<li> [4] <a href="https://arxiv.org/abs/2312.17396">Mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices</a>. SIAM J. Matrix Anal. Appl., To appear.</li>
 
 <li> [3] <a href="https://epubs.siam.org/doi/10.1137/22M1471559">Computing the square root of a low-rank perturbation of the scaled identity matrix</a> (with M. Fasi and N. J. Higham). SIAM J. Matrix Anal. Appl., 44(1):156-174, 2023.</li>
 
