@@ -26,6 +26,9 @@ nav_order: 3
 
 <ul>
 
+<li><a href="https://indico3.mpi-magdeburg.mpg.de/event/44/">Computational Methods in System and Control Theory Ringberg Workshop</a>. Tagungsstätte Schloss Ringberg, Reitrain, Germany, Feb 17--19, 2025.
+</li>
+
 <li><a href="https://www.uni-goettingen.de/en/687071.html">GAMM Workshop on Applied and Numerical Linear Algebra 2024</a>. Göttingen, Germany, Sep 23--24, 2024.
 </li>
 
