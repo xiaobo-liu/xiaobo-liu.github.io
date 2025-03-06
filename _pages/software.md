@@ -34,7 +34,7 @@ Collection of MATLAB functions that generate test matrices from the literature f
 <a href="https://github.com/xiaobo-liu/matrices-mp-cosm">Source code (GitHub)</a>.</li>
 
 <li> <b>sqrtm-lrpsi</b><br>
-MATLAB simulation of algorithms for computing the square root of low-rank-perturbed scaled identity matrix. 
+MATLAB implementation of algorithms for computing the square root of low-rank-perturbed scaled identity matrix. 
 <a href="https://github.com/xiaobo-liu/sqrtm-lrpsi">Source code (GitHub)</a>.</li>
 
 <li> <b>mp-cosm</b><br>
