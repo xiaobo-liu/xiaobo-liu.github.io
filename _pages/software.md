@@ -9,6 +9,10 @@ nav_order: 2
 
 <ul>
 
+<li> <b>mixed-precision-sylvester</b><br>
+MATLAB simulation for solving the Sylvester matrix equation in mixed precisions via new iterative refinement schemes.   
+<a href="https://github.com/north-numerical-computing/mixed-precision-sylvester">Source code (GitHub)</a>.</li>
+
 <li> <b>mhodlr</b><br>
 MATLAB simulation for matrix computations with Hierarchical Off-Diagonal Low-Rank (HODLR) format and mixed precision.   
 <a href="https://github.com/chenxinye/mhodlr">Source code (GitHub)</a>.</li>
@@ -22,7 +26,7 @@ Collection of MATLAB functions that generate test matrices from the literature f
 <a href="https://github.com/xiaobo-liu/matrices-expm">Source code (GitHub)</a>.</li>
 
 <li> <b>mp-ps</b><br>
-MATLAB implementation of mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices.  
+MATLAB simulation of mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices.  
 <a href="https://github.com/xiaobo-liu/mp-ps">Source code (GitHub)</a>.</li>
 
 <li> <b>matrices-mp-cosm</b><br>
@@ -30,15 +34,15 @@ Collection of MATLAB functions that generate test matrices from the literature f
 <a href="https://github.com/xiaobo-liu/matrices-mp-cosm">Source code (GitHub)</a>.</li>
 
 <li> <b>sqrtm-lrpsi</b><br>
-MATLAB implementation of algorithms for computing the square root of low-rank-perturbed scaled identity matrix. 
+MATLAB simulation of algorithms for computing the square root of low-rank-perturbed scaled identity matrix. 
 <a href="https://github.com/xiaobo-liu/sqrtm-lrpsi">Source code (GitHub)</a>.</li>
 
 <li> <b>mp-cosm</b><br>
-MATLAB implementation of arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative. 
+MATLAB simulation of arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative. 
 <a href="https://github.com/xiaobo-liu/mp-cosm">Source code (GitHub)</a>.</li>
 
 <li> <b>mp-spalg</b><br>
-MATLAB implementation of a multiprecision Schur--Parlett algorithm for computing functions of a square matrix without using derivatives of the underlying function.
+MATLAB simulation of a multiprecision Schur--Parlett algorithm for computing functions of a square matrix without using derivatives of the underlying function.
 <a href="https://github.com/xiaobo-liu/mp-spalg">Source code (GitHub)</a>.</li>
 
 </ul>
