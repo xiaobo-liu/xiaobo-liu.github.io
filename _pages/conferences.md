@@ -11,6 +11,9 @@ nav_order: 3
 
 <ul>
 
+<li><a href="https://events.unibo.it/gamm-anla-2025">GAMM Workshop on Applied and Numerical Linear Algebra 2025</a>. Bologna, Italy, Oct 23--24, 2025.
+</li>
+
 <li><a href="https://ilas2025.tw/">26th Conference of the International Linear Algebra Society</a> (ILAS 2025). Kaohsiung, Taiwan, June 23--27, 2025.
 </li>
 
