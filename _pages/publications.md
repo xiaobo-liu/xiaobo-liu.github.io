@@ -27,7 +27,7 @@ nav_order: 1
 
 <li> [5] <a href="https://arxiv.org/abs/2407.21637">Mixed precision HODLR matrices</a> (with E. Carson and X. Chen). SIAM J. Sci. Comput., To appear.</li>
 
-<li> [4] <a href="https://epubs.siam.org/doi/10.1137/24M1675734">Mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices</a>. SIAM J. Matrix Anal. Appl., 46(1), 811-835.</li>
+<li> [4] <a href="https://epubs.siam.org/doi/10.1137/24M1675734">Mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices</a>. SIAM J. Matrix Anal. Appl., 46(1):811-835, 2025.</li>
 
 <li> [3] <a href="https://epubs.siam.org/doi/10.1137/22M1471559">Computing the square root of a low-rank perturbation of the scaled identity matrix</a> (with M. Fasi and N. J. Higham). SIAM J. Matrix Anal. Appl., 44(1):156-174, 2023.</li>
 
