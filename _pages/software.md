@@ -2,7 +2,7 @@
 layout: page
 permalink: /software/
 title: Software
-description: I try to make my code and data publicly available to support the reproducibility and transparency of my research. Here is a list of software I have contributed to.
+description: I make my code and data publicly available to support the reproducibility and transparency of research. Here is a list of software I have <i>contributed to</i>.
 nav: true
 nav_order: 2
 ---

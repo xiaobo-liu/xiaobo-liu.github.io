@@ -2,7 +2,7 @@
 layout: page
 permalink: /conferences/
 title: Conferences
-description: List of upcoming conferences and workshops (which I *may* attend), as well as past events (*attended*), in reverse chronological order.
+description: List of upcoming conferences and workshops (which I <i>may</i> attend), along with those I have attended previously, in reverse chronological order.
 nav: true
 nav_order: 3
 ---
@@ -84,6 +84,31 @@ nav_order: 3
 </li>
 
 <li>Royal Society discussion meeting <a href="https://royalsociety.org/error-404/?item=%2fscience-events-and-lectures%2f2019%2f04%2fhigh-performance-computing%2f&user=extranet%5cAnonymous&site=website">Numerical Algorithms for High-Performance Computational Science</a>. London, UK, April 8--9, 2019.
+</li>
+
+</ul>
+
+
+<b>Organizational activities:</b>
+
+<ul>
+
+<li>Co-organizer of triple minisymposium on <i>New methods in numerical multilinear algebra</i>, <u>26th Conference of the International Linear Algebra Society</u> (with Anna Ma, Elizabeth Newman, and Eda Oktay). Kaohsiung, Taiwan, June 23--27, 2025.
+</li>
+
+<li>Co-organizer of double minisymposium on <i>Functions of Matrices and Actions thereof</i>, <u>SIAM Conference on Applied Linear Algebra</u> (with Massimiliano Fasi). Sorbonne Université, Paris, France, May 13--17, 2024.
+</li>
+
+<li>Co-organizer of double minisymposium on <i>Approximate Computing in Numerical Linear Algebra</i>, <u>29th Biennial Numerical Analysis Conference</u> (with Nick Higham and Bastien Vieublé). University of Strathclyde, Glasgow, UK, June 27--30, 2023.
+</li>
+
+<li>Organizing Committee Member of <u>Manchester SIAM-IMA Student Chapter Conference 2023</u>. University of Manchester, Manchester, UK, April 27, 2023.
+</li>
+
+<li>Co-organizer of double minisymposium on <i>Computing Functions of Matrices</i>, <u>SIAM conference on Applied Linear Algebra</u> (with Massimiliano Fasi). virtual (New Orleans, USA), May 17--21, 2021.
+</li>
+
+<li>Organizing Committee Member of <u>SIAM UKIE National Student Chapter Conference 2019</u>. University of Manchester, Manchester, UK, June 10--11, 2019.
 </li>
 
 </ul>
