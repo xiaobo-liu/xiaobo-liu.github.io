@@ -2,7 +2,7 @@
 layout: page
 permalink: /conferences/
 title: Conferences
-description: List of upcoming conferences and workshops (that I may attend) and past (attended) events (in reverse chronological order).
+description: List of upcoming conferences and workshops (which I *may* attend), as well as past events (*attended*), in reverse chronological order.
 nav: true
 nav_order: 3
 ---
@@ -11,7 +11,19 @@ nav_order: 3
 
 <ul>
 
+<li>11th Workshop on Matrix Equations and Tensor Methods (METT XI). Leuven, Belgium, Jan 7--9, 2026.
+</li>
+
 <li><a href="https://events.unibo.it/gamm-anla-2025">GAMM Workshop on Applied and Numerical Linear Algebra 2025</a>. Bologna, Italy, Oct 23--24, 2025.
+</li>
+
+<li><a href="https://approxcomputing.sciencesconf.org/">Workshop on Approximate Computing in Numerical Linear Algebra</a>. Paris, France, Oct 8--10, 2025.
+</li>
+
+<li><a href="https://enumath2025.eu/">The European Conference on Numerical Mathematics and Advanced Applications (ENUMATH) conferences</a>. Heidelberg, Germany, Sep 1--5, 2025.
+</li>
+
+<li><a href="http://nordic-nla.eu/uppsala-meeting-2025/">Nordic Numerical Linear Algebra Meeting 2025</a>. Uppsala, Sweden, Aug 19--20, 2025.
 </li>
 
 <li><a href="https://ilas2025.tw/">26th Conference of the International Linear Algebra Society</a> (ILAS 2025). Kaohsiung, Taiwan, June 23--27, 2025.
@@ -20,14 +32,14 @@ nav_order: 3
 <li><a href="https://householder-symposium.org/">Householder Symposium XXII</a>. Cornell University, Ithaca, USA, June 8--13, 2025.
 </li>
 
-<li><a href="https://jahrestagung.gamm.org/annual-meeting-2025/95th-annual-meeting-2/">GAMM 95th Annual Meeting</a>. Poznań, Poland, April 7--11, 2025.
-</li>
-
 </ul>
 
 <b>Past Conferences:</b>
 
 <ul>
+
+<li><a href="https://jahrestagung.gamm.org/annual-meeting-2025/95th-annual-meeting-2/">GAMM 95th Annual Meeting</a>. Poznań, Poland, April 7--11, 2025.
+</li>
 
 <li><a href="https://indico3.mpi-magdeburg.mpg.de/event/44/">Computational Methods in System and Control Theory Ringberg Workshop</a>. Tagungsstätte Schloss Ringberg, Reitrain, Germany, Feb 17--19, 2025.
 </li>
