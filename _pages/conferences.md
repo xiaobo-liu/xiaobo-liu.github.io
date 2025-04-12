@@ -20,7 +20,7 @@ nav_order: 3
 <li><a href="https://approxcomputing.sciencesconf.org/">Workshop on Approximate Computing in Numerical Linear Algebra</a>. Paris, France, Oct 8--10, 2025.
 </li>
 
-<li><a href="https://enumath2025.eu/">The European Conference on Numerical Mathematics and Advanced Applications (ENUMATH) conferences</a>. Heidelberg, Germany, Sep 1--5, 2025.
+<li><a href="https://enumath2025.eu/">European Conference on Numerical Mathematics and Advanced Applications</a>. Heidelberg, Germany, Sep 1--5, 2025.
 </li>
 
 <li><a href="http://nordic-nla.eu/uppsala-meeting-2025/">Nordic Numerical Linear Algebra Meeting 2025</a>. Uppsala, Sweden, Aug 19--20, 2025.
@@ -93,22 +93,22 @@ nav_order: 3
 
 <ul>
 
-<li>Co-organizer of triple minisymposium on <i>New methods in numerical multilinear algebra</i>, <u>26th Conference of the International Linear Algebra Society</u> (with Anna Ma, Elizabeth Newman, and Eda Oktay). Kaohsiung, Taiwan, June 23--27, 2025.
+<li>Co-organizer of triple minisymposium on <i>New Methods in Numerical Multilinear Algebra</i>, 26th Conference of the International Linear Algebra Society (with Anna Ma, Elizabeth Newman, and Eda Oktay). Kaohsiung, Taiwan, June 23--27, 2025.
 </li>
 
-<li>Co-organizer of double minisymposium on <i>Functions of Matrices and Actions thereof</i>, <u>SIAM Conference on Applied Linear Algebra</u> (with Massimiliano Fasi). Sorbonne Université, Paris, France, May 13--17, 2024.
+<li>Co-organizer of double minisymposium on <i>Functions of Matrices and Actions thereof</i>, SIAM Conference on Applied Linear Algebra (with Massimiliano Fasi). Sorbonne Université, Paris, France, May 13--17, 2024.
 </li>
 
-<li>Co-organizer of double minisymposium on <i>Approximate Computing in Numerical Linear Algebra</i>, <u>29th Biennial Numerical Analysis Conference</u> (with Nick Higham and Bastien Vieublé). University of Strathclyde, Glasgow, UK, June 27--30, 2023.
+<li>Co-organizer of double minisymposium on <i>Approximate Computing in Numerical Linear Algebra</i>, 29th Biennial Numerical Analysis Conference (with Nick Higham and Bastien Vieublé). University of Strathclyde, Glasgow, UK, June 27--30, 2023.
 </li>
 
-<li>Organizing Committee Member of <u>Manchester SIAM-IMA Student Chapter Conference 2023</u>. University of Manchester, Manchester, UK, April 27, 2023.
+<li>Organizing Committee Member of Manchester SIAM-IMA Student Chapter Conference 2023. University of Manchester, Manchester, UK, April 27, 2023.
 </li>
 
-<li>Co-organizer of double minisymposium on <i>Computing Functions of Matrices</i>, <u>SIAM conference on Applied Linear Algebra</u> (with Massimiliano Fasi). virtual (New Orleans, USA), May 17--21, 2021.
+<li>Co-organizer of double minisymposium on <i>Computing Functions of Matrices</i>, SIAM conference on Applied Linear Algebra (with Massimiliano Fasi). virtual (New Orleans, USA), May 17--21, 2021.
 </li>
 
-<li>Organizing Committee Member of <u>SIAM UKIE National Student Chapter Conference 2019</u>. University of Manchester, Manchester, UK, June 10--11, 2019.
+<li>Organizing Committee Member of SIAM UKIE National Student Chapter Conference 2019. University of Manchester, Manchester, UK, June 10--11, 2019.
 </li>
 
 </ul>
