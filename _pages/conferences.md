@@ -11,20 +11,23 @@ nav_order: 3
 
 <ul>
 
-<li>11th Workshop on Matrix Equations and Tensor Methods (METT XI). Leuven, Belgium, Jan 7--9, 2026.
+<li>11th Workshop on Matrix Equations and Tensor Methods (METT XI). Leuven, Belgium, January 7--9, 2026.
 </li>
 
-<li><a href="https://events.unibo.it/gamm-anla-2025">GAMM Workshop on Applied and Numerical Linear Algebra 2025</a>. Bologna, Italy, Oct 23--24, 2025.
+<li><a href="https://events.unibo.it/gamm-anla-2025">GAMM Workshop on Applied and Numerical Linear Algebra 2025</a>. Bologna, Italy, October 23--24, 2025.
 </li>
 
-<li><a href="https://approxcomputing.sciencesconf.org/">Workshop on Approximate Computing in Numerical Linear Algebra</a>. Paris, France, Oct 8--10, 2025.
+<li><a href="https://approxcomputing.sciencesconf.org/">Workshop on Approximate Computing in Numerical Linear Algebra</a>. Paris, France, October 8--10, 2025.
 </li>
 
-<li><a href="https://enumath2025.eu/">European Conference on Numerical Mathematics and Advanced Applications</a>. Heidelberg, Germany, Sep 1--5, 2025.
+<li><a href="https://enumath2025.eu/">European Conference on Numerical Mathematics and Advanced Applications</a>. Heidelberg, Germany, September 1--5, 2025.
 </li>
 
-<li><a href="http://nordic-nla.eu/uppsala-meeting-2025/">Nordic Numerical Linear Algebra Meeting 2025</a>. Uppsala, Sweden, Aug 19--20, 2025.
+<li><a href="http://nordic-nla.eu/uppsala-meeting-2025/">Nordic Numerical Linear Algebra Meeting 2025</a>. Uppsala, Sweden, August 19--20, 2025.
 </li>
+
+<li><a href="https://numericalanalysisconference.org.uk/conferences/2025/">30th Biennial Numerical Analysis Conference</a>. University of Strathclyde, Glasgow, UK, June 24--27, 2025.
+</li> 
 
 <li><a href="https://ilas2025.tw/">26th Conference of the International Linear Algebra Society</a> (ILAS 2025). Kaohsiung, Taiwan, June 23--27, 2025.
 </li>
@@ -41,13 +44,13 @@ nav_order: 3
 <li><a href="https://jahrestagung.gamm.org/annual-meeting-2025/95th-annual-meeting-2/">GAMM 95th Annual Meeting</a>. Poznań, Poland, April 7--11, 2025.
 </li>
 
-<li><a href="https://indico3.mpi-magdeburg.mpg.de/event/44/">Computational Methods in System and Control Theory Ringberg Workshop</a>. Tagungsstätte Schloss Ringberg, Reitrain, Germany, Feb 17--19, 2025.
+<li><a href="https://indico3.mpi-magdeburg.mpg.de/event/44/">Computational Methods in System and Control Theory Ringberg Workshop</a>. Tagungsstätte Schloss Ringberg, Reitrain, Germany, February 17--19, 2025.
 </li>
 
-<li><a href="https://www.uni-goettingen.de/en/687071.html">GAMM Workshop on Applied and Numerical Linear Algebra 2024</a>. Göttingen, Germany, Sep 23--24, 2024.
+<li><a href="https://www.uni-goettingen.de/en/687071.html">GAMM Workshop on Applied and Numerical Linear Algebra 2024</a>. Göttingen, Germany, September 23--24, 2024.
 </li>
 
-<li><a href="https://www.math.unipd.it/~cirm24/">Numerical Linear Algebra Conference</a>. CIRM-Luminy, Marseille, France, Sep 16--20, 2024.
+<li><a href="https://www.math.unipd.it/~cirm24/">Numerical Linear Algebra Conference</a>. CIRM-Luminy, Marseille, France, September 16--20, 2024.
 </li>
 
 <li><a href="https://www.siam.org/conferences-events/past-event-archive/la24/">SIAM Conference on Applied Linear Algebra</a> (LA24). Sorbonne Université, Paris, France, May 13--17, 2024.
@@ -93,19 +96,19 @@ nav_order: 3
 
 <ul>
 
-<li>Co-organizer of triple minisymposium on <i>New Methods in Numerical Multilinear Algebra</i>, 26th Conference of the International Linear Algebra Society (with Anna Ma, Elizabeth Newman, and Eda Oktay). Kaohsiung, Taiwan, June 23--27, 2025.
+<li>Co-organizer of triple minisymposium on <a href="https://ilas2025.tw/program/mini/">New Methods in Numerical Multilinear Algebra</a>, 26th Conference of the International Linear Algebra Society (with Anna Ma, Elizabeth Newman, and Eda Oktay). Kaohsiung, Taiwan, June 23--27, 2025.
 </li>
 
-<li>Co-organizer of double minisymposium on <i>Functions of Matrices and Actions thereof</i>, SIAM Conference on Applied Linear Algebra (with Massimiliano Fasi). Sorbonne Université, Paris, France, May 13--17, 2024.
+<li>Co-organizer of double minisymposium on <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78782">Functions of Matrices and Actions thereof</a>, SIAM Conference on Applied Linear Algebra (with Massimiliano Fasi). Sorbonne Université, Paris, France, May 13--17, 2024.
 </li>
 
-<li>Co-organizer of double minisymposium on <i>Approximate Computing in Numerical Linear Algebra</i>, 29th Biennial Numerical Analysis Conference (with Nick Higham and Bastien Vieublé). University of Strathclyde, Glasgow, UK, June 27--30, 2023.
+<li>Co-organizer of double minisymposium on <a href="https://numericalanalysisconference.org.uk/conferences/2023/participants">Approximate Computing in Numerical Linear Algebra</a>, 29th Biennial Numerical Analysis Conference (with Nick Higham and Bastien Vieublé). University of Strathclyde, Glasgow, UK, June 27--30, 2023.
 </li>
 
 <li>Organizing Committee Member of Manchester SIAM-IMA Student Chapter Conference 2023. University of Manchester, Manchester, UK, April 27, 2023.
 </li>
 
-<li>Co-organizer of double minisymposium on <i>Computing Functions of Matrices</i>, SIAM conference on Applied Linear Algebra (with Massimiliano Fasi). virtual (New Orleans, USA), May 17--21, 2021.
+<li>Co-organizer of double minisymposium on <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70846">Computing Functions of Matrices</a>, SIAM conference on Applied Linear Algebra (with Massimiliano Fasi). virtual (New Orleans, USA), May 17--21, 2021.
 </li>
 
 <li>Organizing Committee Member of SIAM UKIE National Student Chapter Conference 2019. University of Manchester, Manchester, UK, June 10--11, 2019.
