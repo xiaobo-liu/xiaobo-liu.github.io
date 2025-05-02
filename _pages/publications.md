@@ -23,7 +23,7 @@ nav_order: 1
 
 <ul>
 
-<li> [5] <a href="https://arxiv.org/abs/2407.21637">Mixed precision HODLR matrices</a> (with E. Carson and X. Chen). SIAM J. Sci. Comput., To appear.</li>
+<li> [5] <a href="https://epubs.siam.org/doi/10.1137/24M1683925">Mixed precision HODLR matrices</a> (with E. Carson and X. Chen). SIAM J. Sci. Comput., 47(3):A1408-A1435, 2025.</li>
 
 <li> [4] <a href="https://epubs.siam.org/doi/10.1137/24M1675734">Mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices</a>. SIAM J. Matrix Anal. Appl., 46(1):811-835, 2025.</li>
 
