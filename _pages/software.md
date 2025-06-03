@@ -12,13 +12,13 @@ nav_order: 2
 <ul>
 
 <li> <a href="https://github.com/xiaobo-liu/phi_funm"><b>phi_funm</b></a><br>
-Computing matrix \(\varphi\)-functions arising in exponential integrators.</li>
+An algorithm for computing matrix \(\varphi\)-functions arising in exponential integrators.</li>
 
 <li> <a href="https://github.com/xiaobo-liu/matrices-expm"><b>matrices-expm</b></a><br>
-Collection of MATLAB functions that generate test matrices from the literature for computing the matrix exponential.</li>
+A collection of MATLAB test matrices for computing the matrix exponential.</li>
 
 <li> <a href="https://github.com/xiaobo-liu/matrices-mp-cosm"><b>matrices-mp-cosm</b></a><br>
-Collection of MATLAB functions that generate test matrices from the literature for computing the matrix cosine.</li>
+A collection of MATLAB test matrices for computing the matrix cosine.</li>
 
 <li> <a href="https://github.com/xiaobo-liu/sqrtm-lrpsi"><b>sqrtm-lrpsi</b></a><br>
 Algorithms for computing the square root of low-rank-perturbed scaled identity matrix.</li>
@@ -36,10 +36,10 @@ Solving the Sylvester matrix equation in mixed precisions via new iterative refi
 Matrix computations with Hierarchical Off-Diagonal Low-Rank (HODLR) format and mixed precision.</li>
 
 <li> <a href="https://github.com/open-sciml/mpkmeans"><b>mpkmeans</b></a><br>
-Mixed-precision $k$-means clustering algorithm.</li>
+Mixed-precision \(k\)-means clustering algorithms.</li>
 
 <li> <a href="https://github.com/xiaobo-liu/mp-ps"><b>mp-ps</b></a><br>
-Mixed-precision Paterson--Stockmeyer algorithm for evaluating polynomials of matrices.</li>
+A mixed-precision Paterson--Stockmeyer algorithm for evaluating polynomials of matrices.</li>
 
 <li> <a href="https://github.com/xiaobo-liu/mp-cosm"><b>mp-cosm</b></a><br>
 Arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative.</li>
