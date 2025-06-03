@@ -36,7 +36,7 @@ Solving the Sylvester matrix equation in mixed precisions via new iterative refi
 Matrix computations with Hierarchical Off-Diagonal Low-Rank (HODLR) format and mixed precision.</li>
 
 <li> <a href="https://github.com/open-sciml/mpkmeans"><b>mpkmeans</b></a><br>
-Mixed-precision k-means clustering algorithm.</li>
+Mixed-precision $k$-means clustering algorithm.</li>
 
 <li> <a href="https://github.com/xiaobo-liu/mp-ps"><b>mp-ps</b></a><br>
 Mixed-precision Paterson--Stockmeyer algorithm for evaluating polynomials of matrices.</li>
@@ -45,6 +45,6 @@ Mixed-precision Paterson--Stockmeyer algorithm for evaluating polynomials of mat
 Arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative.</li>
 
 <li> <a href="https://github.com/xiaobo-liu/mp-spalg"><b>mp-spalg</b></a><br>
-A multiprecision Schur--Parlett algorithm for computing matrix functions without using derivatives of the underlying function.</li>
+A multiprecision Schur--Parlett algorithm for computing matrix functions without using the derivatives.</li>
 
 </ul>
