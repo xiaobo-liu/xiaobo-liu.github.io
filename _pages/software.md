@@ -45,6 +45,6 @@ Mixed-precision Paterson--Stockmeyer algorithm for evaluating polynomials of mat
 Arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative.</li>
 
 <li> <a href="https://github.com/xiaobo-liu/mp-spalg"><b>mp-spalg</b></a><br>
-A multiprecision Schur--Parlett algorithm for computing functions of a square matrix without using derivatives of the underlying function.</li>
+A multiprecision Schur--Parlett algorithm for computing matrix functions without using derivatives of the underlying function.</li>
 
 </ul>
