@@ -7,7 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-<b>Graduate Teaching Assistant at The University of Manchester:</b>
+<font size="5">Graduate teaching assistant at The University of Manchester</font>
+
+
 <ul>
 
 <li> 2021/22 S2 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10242">MATH10242</a> Sequences and Series, <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022">MATH36022</a> Numerical Analysis II</li>

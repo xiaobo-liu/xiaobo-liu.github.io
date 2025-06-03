@@ -2,12 +2,12 @@
 layout: page
 permalink: /conferences/
 title: Conferences
-description: List of upcoming conferences and workshops (which I <i>may</i> attend), along with those I have attended previously, in reverse chronological order.
+description: Upcoming and past conferences and workshops (in reverse chronological order).
 nav: true
 nav_order: 3
 ---
 
-<b>Upcoming Conferences:</b>
+<font size="5">Upcoming</font>
 
 <ul>
 
@@ -23,12 +23,6 @@ nav_order: 3
 <li><a href="https://enumath2025.eu/">European Conference on Numerical Mathematics and Advanced Applications</a>. Heidelberg, Germany, September 1--5, 2025.
 </li>
 
-<li><a href="http://nordic-nla.eu/uppsala-meeting-2025/">Nordic Numerical Linear Algebra Meeting 2025</a>. Uppsala, Sweden, August 19--20, 2025.
-</li>
-
-<li><a href="https://numericalanalysisconference.org.uk/conferences/2025/">30th Biennial Numerical Analysis Conference</a>. University of Strathclyde, Glasgow, UK, June 24--27, 2025.
-</li> 
-
 <li><a href="https://ilas2025.tw/">26th Conference of the International Linear Algebra Society</a> (ILAS 2025). Kaohsiung, Taiwan, June 23--27, 2025.
 </li>
 
@@ -37,7 +31,7 @@ nav_order: 3
 
 </ul>
 
-<b>Past Conferences:</b>
+<font size="5">Past</font>
 
 <ul>
 
@@ -91,8 +85,7 @@ nav_order: 3
 
 </ul>
 
-
-<b>Organizational activities:</b>
+<font size="5">Organizational activities</font>
 
 <ul>
 

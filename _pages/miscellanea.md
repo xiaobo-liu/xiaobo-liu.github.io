@@ -11,8 +11,7 @@ nav_order: 6
 
 <p>My <a href="https://www.mathgenealogy.org/id.php?id=306215">Mathematics Genealogy Project entry</a>.</p>
 
-
-<b>MATLAB toolbox</b>
+<font size="5">MATLAB toolbox</font>
 
 <ul>
 
@@ -32,7 +31,7 @@ nav_order: 6
 
 </ul>
 
-<b>Other resources</b>
+<font size="5">Other resources</font>
 
 <ul>
 

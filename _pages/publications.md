@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Links to published articles in peer-reviewed journals, preprints, and my PhD thesis.
+description: Links to peer-reviewed articles, preprints, and my PhD thesis.
 nav: true
 nav_order: 1
 ---
@@ -10,6 +10,9 @@ nav_order: 1
 <font size="5">Latest preprints</font>
 
 <ul>
+
+
+<li> [4p] <a href="https://arxiv.org/abs/2506.01193">Computing matrix \(\varphi\)-functions arising in exponential integrators</a> (with A. H. Al-Mohy). ArXiv:2506.01193 [math.NA], June 2025.</li>
 
 <li> [3p] <a href="https://arxiv.org/abs/2503.03456">Mixed-precision algorithms for solving the Sylvester matrix equation</a> (with A. Dmytryshyn, M. Fasi, and N. J. Higham). ArXiv:2503.03456 [math.NA], March 2025.</li>
 
