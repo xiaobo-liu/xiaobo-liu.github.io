@@ -7,8 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<font size="5">Graduate teaching assistant at The University of Manchester</font>
-
+<font size="5">Teaching Assistant at University of Manchester</font>
 
 <ul>
 
