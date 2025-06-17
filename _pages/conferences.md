@@ -11,7 +11,7 @@ nav_order: 3
 
 <ul>
 
-<li>11th Workshop on Matrix Equations and Tensor Methods (METT XI). Leuven, Belgium, January 7--9, 2026.
+<li><a href="https://homes.esat.kuleuven.be/~mettxi/index.html">11th Workshop on Matrix Equations and Tensor Methods</a> (METT XI). Leuven, Belgium, January 7--9, 2026.
 </li>
 
 <li><a href="https://events.unibo.it/gamm-anla-2025">GAMM Workshop on Applied and Numerical Linear Algebra 2025</a>. Bologna, Italy, October 23--24, 2025.
@@ -26,14 +26,14 @@ nav_order: 3
 <li><a href="https://ilas2025.tw/">26th Conference of the International Linear Algebra Society</a> (ILAS 2025). Kaohsiung, Taiwan, June 23--27, 2025.
 </li>
 
-<li><a href="https://householder-symposium.org/">Householder Symposium XXII</a>. Cornell University, Ithaca, USA, June 8--13, 2025.
-</li>
-
 </ul>
 
 <font size="5">Past</font>
 
 <ul>
+
+<li><a href="https://householder-symposium.org/">Householder Symposium XXII</a>. Cornell University, Ithaca, USA, June 8--13, 2025.
+</li>
 
 <li><a href="https://jahrestagung.gamm.org/annual-meeting-2025/95th-annual-meeting-2/">GAMM 95th Annual Meeting</a>. Poznań, Poland, April 7--11, 2025.
 </li>
@@ -89,7 +89,7 @@ nav_order: 3
 
 <ul>
 
-<li>Co-organizer of triple minisymposium on <a href="https://ilas2025.tw/program/mini/">New Methods in Numerical Multilinear Algebra</a>, 26th Conference of the International Linear Algebra Society (with Anna Ma, Elizabeth Newman, and Eda Oktay). Kaohsiung, Taiwan, June 23--27, 2025.
+<li>Co-organizer of triple minisymposium on <a href="https://ilas2025.tw/program/mini/">New Methods in Numerical Multilinear Algebra</a> (with Anna Ma, Elizabeth Newman, and Eda Oktay) and double minisymposium on <a href="https://ilas2025.tw/program/mini/">Approximations and Errors in Krylov-based Solvers</a> (with Xin Liu and Bastien Vieublé), 26th Conference of the International Linear Algebra Society. Kaohsiung, Taiwan, June 23--27, 2025.
 </li>
 
 <li>Co-organizer of double minisymposium on <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78782">Functions of Matrices and Actions thereof</a>, SIAM Conference on Applied Linear Algebra (with Massimiliano Fasi). Sorbonne Université, Paris, France, May 13--17, 2024.

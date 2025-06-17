@@ -9,8 +9,7 @@ nav_order: 4
 
 <ul>
 
-<li><a href="../assets/pdf/poster-HH25.pdf">Mixed Precision HODLR Matrices</a>. Householder Symposium XXII. Cornell University, Ithaca, USA, June 10, 2025.
-</li><a href="../assets/pdf/extended_abstract-HH25.pdf">Submitted Extended Abstract</a>.
+<li><a href="../assets/pdf/poster-HH25.pdf">Mixed Precision HODLR Matrices</a>. Householder Symposium XXII. Cornell University, Ithaca, USA, June 10, 2025. </li><a href="../assets/pdf/extended_abstract-HH25.pdf">Submitted extended abstract</a>.
 
 <li><a href="../assets/pdf/talk-GAMM25.pdf">Mixed-Precision Iterative Refinement for Low-Rank Lyapunov Equations</a>. GAMM 95th Annual Meeting, Poznań, Poland, April 8, 2025.
 </li>
