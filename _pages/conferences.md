@@ -23,14 +23,14 @@ nav_order: 3
 <li><a href="https://enumath2025.eu/">European Conference on Numerical Mathematics and Advanced Applications</a>. Heidelberg, Germany, September 1--5, 2025.
 </li>
 
-<li><a href="https://ilas2025.tw/">26th Conference of the International Linear Algebra Society</a> (ILAS 2025). Kaohsiung, Taiwan, June 23--27, 2025.
-</li>
-
 </ul>
 
 <font size="5">Past</font>
 
 <ul>
+
+<li><a href="https://ilas2025.tw/">26th Conference of the International Linear Algebra Society</a> (ILAS 2025). Kaohsiung, Taiwan, June 23--27, 2025.
+</li>
 
 <li><a href="https://householder-symposium.org/">Householder Symposium XXII</a>. Cornell University, Ithaca, USA, June 8--13, 2025.
 </li>
