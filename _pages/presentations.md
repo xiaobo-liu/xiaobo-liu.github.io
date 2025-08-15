@@ -40,5 +40,3 @@ nav_order: 4
 
 <li><a href="../assets/pdf/talk-SIAMLA21.pdf">A Multiprecision Derivative-Free Schur–Parlett Algorithm for Computing Matrix Functions</a>. SIAM Conference on Applied Linear Algebra, virtual (New Orleans, USA), May 20, 2021.
 </li>
-
-</ul>
