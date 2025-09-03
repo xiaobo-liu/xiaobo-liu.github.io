@@ -9,6 +9,9 @@ nav_order: 4
 
 <ul>
 
+<li><a href="../assets/pdf/talk-ENUMATH25.pdf">Mixed-precision algorithms for solving the Sylvester matrix equations</a>. European Conference on Numerical Mathematics and Advanced Applications 2025, Heidelberg University, Heidelberg, Germany, September 3, 2025.
+</li>
+
 <li><a href="../assets/pdf/talk-Leeds25.pdf">Mixed-Precision Iterative Refinement for Low-Rank Lyapunov Equations</a>. Leeds Scientific Computation Group Seminar, University of Leeds, Leeds, UK, August 14, 2025.
 </li>
 
