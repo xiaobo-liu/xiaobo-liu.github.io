@@ -2,7 +2,7 @@
 layout: page
 permalink: /software/
 title: Software
-description: I share my code and data to support open and reproducible research. Below is the software I’ve <i>contributed to</i>.
+description: I share my code and data to support open and reproducible research. Here is a list of software I’ve <i>contributed to</i>.
 nav: true
 nav_order: 2
 ---
