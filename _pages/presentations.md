@@ -47,6 +47,7 @@ nav_order: 4
 <ul>
 
 <li><a href="../assets/pdf/talk-ICIAM23.pdf">Mixed-Precision Paterson–Stockmeyer Method for Evaluating Polynomials of Matrices</a>. 10th International Congress on Industrial and Applied Mathematics, Waseda University, Tokyo, Japan, August 22, 2023.
+</li>
 
 <li><a href="../assets/pdf/talk-BNAC23.pdf">Mixed-Precision Paterson–Stockmeyer Method for Evaluating Polynomials of Matrices</a>. 29th Biennial Numerical Analysis Conference, University of Strathclyde, Glasgow, UK, June 28, 2023.
 </li>

@@ -8,6 +8,7 @@ nav_order: 1
 ---
 
 <p>A collection of my (co-)authored papers and preprints can be found in this <a href="https://github.com/xiaobo-liu/xliu-bib/blob/main/xliu-bib.bib">.bib file</a>.
+</p>
 
 
 <font size="5">Latest preprints</font>
