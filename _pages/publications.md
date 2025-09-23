@@ -2,17 +2,20 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: A collection of my (co-)authored papers and preprints can be found in this [.bib file](https://github.com/xiaobo-liu/xliu-bib/blob/main/xliu-bib.bib). 
+description: Links to peer-reviewed articles, preprints, and my PhD thesis.
 nav: true
 nav_order: 1
 ---
+
+<p>A collection of my (co-)authored papers and preprints can be found in this <a href="https://github.com/xiaobo-liu/xliu-bib/blob/main/xliu-bib.bib">.bib file</a>.
+
 
 <font size="5">Latest preprints</font>
 
 <ul>
 
 
-<li> [4p] <a href="https://arxiv.org/abs/2506.01193"> A scaling and recovering algorithm for the matrix \(\varphi\)-functions</a> (with A. H. Al-Mohy). ArXiv:2506.01193 [math.NA], June 2025; revised September 2025</li>
+<li> [4p] <a href="https://arxiv.org/abs/2506.01193"> A scaling and recovering algorithm for the matrix \(\varphi\)-functions</a> (with A. H. Al-Mohy). ArXiv:2506.01193 [math.NA], June 2025; revised September 2025.</li>
 
 <li> [3p] <a href="https://arxiv.org/abs/2503.03456">Mixed-precision algorithms for solving the Sylvester matrix equation</a> (with A. Dmytryshyn, M. Fasi, and N. J. Higham). ArXiv:2503.03456 [math.NA], March 2025.</li>
 

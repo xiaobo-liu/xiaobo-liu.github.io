@@ -49,6 +49,7 @@ nav_order: 4
 <li><a href="../assets/pdf/talk-ICIAM23.pdf">Mixed-Precision Paterson–Stockmeyer Method for Evaluating Polynomials of Matrices</a>. 10th International Congress on Industrial and Applied Mathematics, Waseda University, Tokyo, Japan, August 22, 2023.
 
 <li><a href="../assets/pdf/talk-BNAC23.pdf">Mixed-Precision Paterson–Stockmeyer Method for Evaluating Polynomials of Matrices</a>. 29th Biennial Numerical Analysis Conference, University of Strathclyde, Glasgow, UK, June 28, 2023.
+</li>
 
 </ul>
 
@@ -57,6 +58,7 @@ nav_order: 4
 <ul>
 
 <li><a href="../assets/pdf/talk-SIAMAN22.pdf">Computing the Square Root of a Low-Rank Perturbation of the Scaled Identity Matrix</a>. 2022 SIAM Annual Meeting, virtual (Pittsburgh, USA), July 15, 2022.
+</li>
 
 <li><a href="../assets/pdf/talk-IMA-NLAO22.pdf">Computing the Square Root of a Low-Rank Perturbation of the Scaled Identity Matrix</a>. 7th IMA Conference on Numerical Linear Algebra and Optimization, University of Birmingham, Birmingham, UK, June 30, 2022.
 </li>
