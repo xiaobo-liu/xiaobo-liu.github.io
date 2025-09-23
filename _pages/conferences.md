@@ -20,14 +20,14 @@ nav_order: 3
 <li><a href="https://approxcomputing.sciencesconf.org/">Workshop on Approximate Computing in Numerical Linear Algebra</a>. Sorbonne Université, Paris, France, October 8-10, 2025.
 </li>
 
-<li><a href="https://enumath2025.eu/">European Conference on Numerical Mathematics and Advanced Applications</a>. Heidelberg University, Heidelberg, Germany, September 1-5, 2025.
-</li>
-
 </ul>
 
 <font size="5">Past</font>
 
 <ul>
+
+<li><a href="https://enumath2025.eu/">European Conference on Numerical Mathematics and Advanced Applications</a>. Heidelberg University, Heidelberg, Germany, September 1-5, 2025.
+</li>
 
 <li><a href="https://ilas2025.tw/">26th Conference of the International Linear Algebra Society</a> (ILAS 2025). National Sun Yat-sen University, Kaohsiung, Taiwan, June 23-27, 2025.
 </li>
