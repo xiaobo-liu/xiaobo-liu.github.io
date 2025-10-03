@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 Welcome. I am a postdoctoral researcher in the [Computational Methods in Systems and Control Theory](https://www.mpi-magdeburg.mpg.de/csc) group at the [Max Planck Institute for Dynamics of Complex Technical Systems](https://www.mpi-magdeburg.mpg.de/2316/en), headed by [Prof. Peter Benner](https://www.mpi-magdeburg.mpg.de/benner).
-Previously, I was a research associate in the [Numerical Linear Algebra Group](https://nla-group.org/) at [The University of Manchester](https://www.manchester.ac.uk/), where I completed my PhD (Sep 2018--Jun 2022) and was very fortunate to be supervised by [Prof. Nicholas J. Higham](https://nhigham.com).
+Previously, I was a research associate in the [Numerical Linear Algebra Group](https://nla-group.org/) at [The University of Manchester](https://www.manchester.ac.uk/), where I also completed my PhD (Sep 2018--Jun 2022) and was very fortunate to be supervised by [Prof. Nicholas J. Higham](https://nhigham.com).
 
 Broadly speaking, I work on [Numerical Analysis](https://www.maths.manchester.ac.uk/research/themes/numerical-analysis-and-scientific-computing/) and [Numerical Linear Algebra](https://www.maths.manchester.ac.uk/research/expertise/numerical-linear-algebra/), focusing on the design, development, and analysis of numerical algorithms. 
 I am currently a participant in research projects on:

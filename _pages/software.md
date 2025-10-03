@@ -29,6 +29,9 @@ Algorithms for computing the square root of low-rank-perturbed scaled identity m
 
 <ul>
 
+<li> <a href="https://github.com/xiaobo-liu/mplyap"><b>mplyap</b></a><br>
+Mixed-precision iterative refinement for low-rank Lyapunov equations.</li>
+
 <li> <a href="https://github.com/north-numerical-computing/mixed-precision-sylvester"><b>mixed-precision-sylvester</b></a><br>
 Solving the Sylvester matrix equation in mixed precisions via new iterative refinement schemes.</li>
 

@@ -15,6 +15,7 @@ nav_order: 1
 
 <ul>
 
+<li> [5p] <a href="https://arxiv.org/abs/2506.02126"> Mixed-precision iterative refinement for low-rank Lyapunov equations</a> (with P. Benner). ArXiv:2506.02126 [math.NA], October 2025.</li>
 
 <li> [4p] <a href="https://arxiv.org/abs/2506.01193"> A scaling and recovering algorithm for the matrix \(\varphi\)-functions</a> (with A. H. Al-Mohy). ArXiv:2506.01193 [math.NA], June 2025; revised September 2025.</li>
 
