@@ -17,7 +17,7 @@ nav_order: 1
 
 <li> [5p] <a href="https://arxiv.org/abs/2510.02126"> Mixed-precision iterative refinement for low-rank Lyapunov equations</a> (with P. Benner). ArXiv:2510.02126 [math.NA], October 2025.</li>
 
-<li> [4p] <a href="https://arxiv.org/abs/2506.01193"> A scaling and recovering algorithm for the matrix \(\varphi\)-functions</a> (with A. H. Al-Mohy). ArXiv:2506.01193 [math.NA], June 2025; revised September 2025.</li>
+<li> [4p] <a href="https://arxiv.org/abs/2506.01193"> A scaling and recovering algorithm for the matrix \(\varphi\)-functions</a> (with A. H. Al-Mohy). ArXiv:2506.01193 [math.NA], June 2025; revised September 2025. To appear in SIAM J. Sci. Comput.</li>
 
 <li> [3p] <a href="https://arxiv.org/abs/2503.03456">Mixed-precision algorithms for solving the Sylvester matrix equation</a> (with A. Dmytryshyn, M. Fasi, and N. J. Higham). ArXiv:2503.03456 [math.NA], March 2025.</li>
 
