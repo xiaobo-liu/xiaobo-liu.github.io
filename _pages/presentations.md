@@ -11,6 +11,9 @@ nav_order: 4
 
 <ul>
 
+<li><a href="../assets/pdf/talk-ACNLA25.pdf">Mixed-Precision Algorithms for Solving the Sylvester Matrix Equations</a>. Workshop on Approximate Computing in Numerical Linear Algebra</a>. Sorbonne Université, Paris, France, October 10, 2025.
+</li>
+
 <li><a href="../assets/pdf/talk-ENUMATH25.pdf">Mixed-Precision Algorithms for Solving the Sylvester Matrix Equations</a>. European Conference on Numerical Mathematics and Advanced Applications 2025, Heidelberg University, Heidelberg, Germany, September 3, 2025.
 </li>
 

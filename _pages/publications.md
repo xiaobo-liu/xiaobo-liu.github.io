@@ -29,7 +29,7 @@ nav_order: 1
 
 <ul>
 
-<li> [6] <a href="https://arxiv.org/abs/2506.01193">A scaling and recovering algorithm for the matrix \(\varphi\)-functions</a> (with A. H. Al-Mohy). ArXiv:2506.01193 [math.NA], June 2025; revised September 2025. To appear in SIAM J. Sci. Comput.</li>
+<li> [6] <a href="https://arxiv.org/abs/2506.01193">A scaling and recovering algorithm for the matrix \(\varphi\)-functions</a> (with A. H. Al-Mohy). SIAM J. Sci. Comput., To appear.</li>
 
 <li> [5] <a href="https://epubs.siam.org/doi/10.1137/24M1683925">Mixed precision HODLR matrices</a> (with E. Carson and X. Chen). SIAM J. Sci. Comput., 47(3):A1408-A1435, 2025.</li>
 
