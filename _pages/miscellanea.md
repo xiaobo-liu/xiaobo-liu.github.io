@@ -25,8 +25,6 @@ nav_order: 6
 
 <li><a href="https://www.mpi-magdeburg.mpg.de/projects/morlab">MORLAB</a>, Model Order Reduction LABoratory</li>
 
-<li><a href="https://www.mpi-magdeburg.mpg.de/projects/mess">M.E.S.S.</a>, Matrix Equation Sparse Solver</li>
-
 <li><a href="https://www.advanpix.com/">Advanpix</a> multiprecision computing toolbox</li>
 
 </ul>
