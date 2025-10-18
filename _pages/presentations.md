@@ -11,6 +11,9 @@ nav_order: 4
 
 <ul>
 
+<li><a href="../assets/pdf/talk-NBM25.pdf">A Scaling and Recovering Algorithm for the Matrix \(\varphi\)-Functions</a>. Biweekly Matrix Theory Seminar, University of Nevada, Reno, US (Virtual), October 17, 2025.
+</li>
+
 <li><a href="../assets/pdf/talk-ACNLA25.pdf">Mixed-Precision Algorithms for Solving the Sylvester Matrix Equations</a>. Workshop on Approximate Computing in Numerical Linear Algebra. Sorbonne Université, Paris, France, October 10, 2025.
 </li>
 
