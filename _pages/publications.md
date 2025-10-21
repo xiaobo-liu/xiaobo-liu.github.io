@@ -17,7 +17,7 @@ nav_order: 1
 
 <li> [4p] <a href="https://arxiv.org/abs/2510.02126">Mixed-precision iterative refinement for low-rank Lyapunov equations</a> (with P. Benner). ArXiv:2510.02126 [math.NA], October 2025.</li>
 
-<li> [3p] <a href="https://arxiv.org/abs/2503.03456">Mixed-precision algorithms for solving the Sylvester matrix equation</a> (with A. Dmytryshyn, M. Fasi, and N. J. Higham). ArXiv:2503.03456 [math.NA], March 2025.</li>
+<li> [3p] <a href="https://arxiv.org/abs/2503.03456v2">Mixed-precision algorithms for solving the Sylvester matrix equation</a> (with A. Dmytryshyn, M. Fasi, and N. J. Higham). ArXiv:2503.03456v2 [math.NA], March 2025; revised October 2025.</li>
 
 <li> [2p] <a href="https://arxiv.org/abs/2502.09165">Generalizing reduced rank extrapolation to low-rank matrix sequences</a> (with P. den Boef, P. Kürschner, J. Maubach, J. Saak, W. Schilders, J. Schulze, and N. van de Wouw). ArXiv:2502.09165 [math.NA], February 2025.</li>
 
