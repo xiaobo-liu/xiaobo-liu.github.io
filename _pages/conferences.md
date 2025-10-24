@@ -14,14 +14,14 @@ nav_order: 3
 <li><a href="https://www.siam.org/conferences-events/siam-conferences/pp26/">SIAM Conference on Parallel Processing for Scientific Computing</a> (PP26). Zuse Institute Berlin, Berlin, Germany, March 3-6, 2026.
 </li>
 
-<li><a href="https://events.unibo.it/gamm-anla-2025">GAMM Workshop on Applied and Numerical Linear Algebra 2025</a>. Università di Bologna, Bologna, Italy, October 23-24, 2025.
-</li>
-
 </ul>
 
 <font size="5">Past</font>
 
 <ul>
+
+<li><a href="https://events.unibo.it/gamm-anla-2025">GAMM Workshop on Applied and Numerical Linear Algebra 2025</a>. Università di Bologna, Bologna, Italy, October 23-24, 2025.
+</li>
 
 <li><a href="https://approxcomputing.sciencesconf.org/">Workshop on Approximate Computing in Numerical Linear Algebra</a>. Sorbonne Université, Paris, France, October 8-10, 2025.
 </li>

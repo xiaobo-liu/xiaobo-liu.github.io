@@ -11,6 +11,9 @@ nav_order: 4
 
 <ul>
 
+<li><a href="../assets/pdf/talk-GAMM-ANLA25.pdf">A Scaling and Recovering Algorithm for the Matrix \(\varphi\)-Functions</a>. GAMM Workshop on Applied and Numerical Linear Algebra 2025, Università di Bologna, Bologna, Italy, October 24, 2025.
+</li>
+
 <li><a href="../assets/pdf/talk-NBM25.pdf">A Scaling and Recovering Algorithm for the Matrix \(\varphi\)-Functions</a>. Biweekly Matrix Theory Seminar, University of Nevada, Reno, US (Virtual), October 17, 2025.
 </li>
 
