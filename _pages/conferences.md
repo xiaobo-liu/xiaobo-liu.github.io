@@ -11,7 +11,16 @@ nav_order: 3
 
 <ul>
 
+<li><a href="https://ilas2026.math.vt.edu/">27th Conference of the International Linear Algebra Society</a> (ILAS 2026). Virginia Tech, Blacksburg, VA, USA, May 18-22, 2026.
+</li>
+
+<li><a href="https://jahrestagung.gamm.org/annual-meeting-2026/96th-annual-meeting-2/">GAMM 96th Annual Meeting</a>. Universität Stuttgart, Stuttgart, Germany, March 16-20, 2026.
+</li>
+
 <li><a href="https://www.siam.org/conferences-events/siam-conferences/pp26/">SIAM Conference on Parallel Processing for Scientific Computing</a> (PP26). Zuse Institute Berlin, Berlin, Germany, March 3-6, 2026.
+</li>
+
+<li><a href="https://sites.google.com/view/fabulous-dfg-scinet/events">The f(A)bulous Scientific Network Meeting</a>. University of Wuppertal, Wuppertal, Germany, February 23-25, 2026.
 </li>
 
 </ul>
