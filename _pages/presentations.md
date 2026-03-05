@@ -7,6 +7,15 @@ nav: true
 nav_order: 4
 ---
 
+<font size="5">2026</font>
+
+<ul>
+
+<li><a href="../assets/pdf/talk-SIAMPP26.pdf">Mixed Precision HODLR Matrices</a>. SIAM Conference on Parallel Processing for Scientific Computing, Zuse Institute Berlin, Berlin, Germany, March 3, 2026.
+</li>
+
+</ul>
+
 <font size="5">2025</font>
 
 <ul>
