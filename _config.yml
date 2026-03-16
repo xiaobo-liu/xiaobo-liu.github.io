@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Xiaobo
 middle_name: 
 last_name: Liu
-email: xliu@mpi-magdeburg.mpg.de
+email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: 
 keywords: Numerical Linear Algebra, Matrix Functions, Matrix Equations, Mixed Precision, Numerical Algorithms # add your own keywords or leave empty
