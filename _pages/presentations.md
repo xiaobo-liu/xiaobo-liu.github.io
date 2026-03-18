@@ -11,6 +11,10 @@ nav_order: 4
 
 <ul>
 
+
+<li><a href="../assets/pdf/talk-GAMM26.pdf">A Scaling and Recovering Algorithm for the Matrix \(\varphi\)-Functions</a>. GAMM 96th Annual Meeting, Universität Stuttgart, Stuttgart, Germany, March 18, 2026.
+</li>
+
 <li><a href="../assets/pdf/talk-SIAMPP26.pdf">Mixed Precision HODLR Matrices</a>. SIAM Conference on Parallel Processing for Scientific Computing, Zuse Institute Berlin, Berlin, Germany, March 3, 2026.
 </li>
 
