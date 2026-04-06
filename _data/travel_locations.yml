@@ -1,4 +1,4 @@
-- title: PhD & postdoc1
+- title: PhD
   location: Manchester, UK
   lat: 53.4808
   lng: -2.2426
@@ -40,6 +40,13 @@
   date: 2022-06
   category: conference
 
+- title: postdoc1
+  location: Manchester, UK
+  lat: 53.4808
+  lng: -2.2426
+  date: 2022-11
+  category: work
+
 - title: SIAM-IMA student
   location: Manchester, UK
   lat: 53.4808
@@ -55,9 +62,9 @@
   category: conference
 
 - title: ICIAM
-  location: Glasgow, UK
-  lat: 55.8642
-  lng: -4.2518
+  location: Tokyo, Japan
+  lat: 35.6762
+  lng: 139.6503
   date: 2023-08
   category: conference
 
