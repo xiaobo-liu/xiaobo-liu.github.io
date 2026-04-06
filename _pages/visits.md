@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     // Spread repeated visits in a small circle around the true location.
-    const radius = 0.12; // degrees; small but visible at city scale
+    const radius = 0.10; // degrees; small but visible at city scale
     const angle = (2 * Math.PI * index) / total;
 
     // Adjust longitude offset by latitude so the visual spacing is more balanced.
