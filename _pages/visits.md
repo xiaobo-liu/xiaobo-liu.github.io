@@ -2,7 +2,7 @@
 layout: page
 permalink: /visits/
 title: Visits
-description: Map of research visits.
+description: Research has led me to remarkable places. Here is a map of my research visits.
 nav: true
 nav_order: 6
 ---
@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded", function () {
     switch (category) {
       case "conference": return "blue";
       case "work": return "green";
-      case "travel": return "orange";
+      case "visit": return "orange";
       default: return "gray";
     }
   }
