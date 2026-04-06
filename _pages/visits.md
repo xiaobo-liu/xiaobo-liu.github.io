@@ -8,11 +8,7 @@ nav_order: 6
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
-
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 
 <style>
   #travel-map {
@@ -22,7 +18,6 @@ nav_order: 6
     margin-top: 1rem;
   }
 
-  /* popup styling (matches al-folio typography better) */
   .leaflet-popup-content {
     font-size: 0.95rem;
     line-height: 1.4;
@@ -59,14 +54,13 @@ document.addEventListener("DOMContentLoaded", function () {
   ];
 
   const map = L.map("travel-map", {
-    scrollWheelZoom: false   // nicer UX inside a page
+    scrollWheelZoom: false
   }).setView([20, 0], 2);
 
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap contributors"
   }).addTo(map);
 
-  const markers = L.markerClusterGroup();
   const bounds = [];
 
   function getColor(category) {
@@ -78,13 +72,46 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
-  places.forEach((p) => {
+  // Keep track of how many times each exact coordinate pair appears.
+  const coordCounts = {};
+  const coordSeen = {};
 
-    const marker = L.circleMarker([p.lat, p.lng], {
+  places.forEach((p) => {
+    const key = `${p.lat},${p.lng}`;
+    coordCounts[key] = (coordCounts[key] || 0) + 1;
+  });
+
+  function getJitteredLatLng(lat, lng, index, total) {
+    if (total === 1) {
+      return [lat, lng];
+    }
+
+    // Spread repeated visits in a small circle around the true location.
+    const radius = 0.04; // degrees; small but visible at city scale
+    const angle = (2 * Math.PI * index) / total;
+
+    // Adjust longitude offset by latitude so the visual spacing is more balanced.
+    const latOffset = radius * Math.sin(angle);
+    const lngOffset = (radius * Math.cos(angle)) / Math.cos(lat * Math.PI / 180);
+
+    return [lat + latOffset, lng + lngOffset];
+  }
+
+  places.forEach((p) => {
+    const key = `${p.lat},${p.lng}`;
+    const total = coordCounts[key];
+    const index = coordSeen[key] || 0;
+    coordSeen[key] = index + 1;
+
+    const [plotLat, plotLng] = getJitteredLatLng(p.lat, p.lng, index, total);
+
+    const marker = L.circleMarker([plotLat, plotLng], {
       radius: 6,
       color: getColor(p.category),
-      fillOpacity: 0.8
-    });
+      fillColor: getColor(p.category),
+      fillOpacity: 0.8,
+      weight: 1
+    }).addTo(map);
 
     marker.bindPopup(`
       <div class="popup-title">${p.title}</div>
@@ -93,11 +120,8 @@ document.addEventListener("DOMContentLoaded", function () {
       <div>${p.note}</div>
     `);
 
-    markers.addLayer(marker);
-    bounds.push([p.lat, p.lng]);
+    bounds.push([plotLat, plotLng]);
   });
-
-  map.addLayer(markers);
 
   if (bounds.length > 0) {
     map.fitBounds(bounds, { padding: [40, 40] });
