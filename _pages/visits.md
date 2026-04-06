@@ -2,7 +2,7 @@
 layout: page
 permalink: /visits/
 title: Visits
-description: Research has led me to remarkable places. Here is a map of my research visits.
+description: Research is a journey through remarkable places. Here is a map of my research visits.
 nav: true
 nav_order: 6
 ---
