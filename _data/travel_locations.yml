@@ -1,0 +1,15 @@
+- title: Manchester
+  location: Manchester, UK
+  lat: 53.4808
+  lng: -2.2426
+  date: 2018-09
+  category: work
+  note: PhD
+
+- title: Magdeburg
+  location: Magdeburg, Germany
+  lat: 52.1205
+  lng: 11.6276
+  date: 2024-01
+  category: work
+  note: postdoc at MPI

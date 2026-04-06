@@ -17,10 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Welcome. I am a postdoctoral researcher in the [Computational Methods in Systems and Control Theory](https://www.mpi-magdeburg.mpg.de/csc) group at the [Max Planck Institute for Dynamics of Complex Technical Systems](https://www.mpi-magdeburg.mpg.de/2316/en), headed by [Prof. Peter Benner](https://www.mpi-magdeburg.mpg.de/benner).
-Previously, I was a research associate in the [Numerical Linear Algebra Group](https://nla-group.org/) at [The University of Manchester](https://www.manchester.ac.uk/), where I also completed my PhD (Sep 2018--Jun 2022) and was very fortunate to be supervised by [Prof. Nicholas J. Higham](https://nhigham.com).
+Welcome. I am a postdoctoral researcher in the [Computational Methods in Systems and Control Theory Group](https://www.mpi-magdeburg.mpg.de/csc) at the Max Planck Institute for Dynamics of Complex Technical Systems, led by [Prof. Peter Benner](https://www.mpi-magdeburg.mpg.de/benner).
+Previously, I was a research associate in the [Numerical Linear Algebra Group](https://nla-group.org/) at The University of Manchester, where I also completed my PhD in June 2022 under the supervision of [Prof. Nicholas J. Higham](https://nhigham.com).
 
-Broadly speaking, I work in [Numerical Analysis](https://www.maths.manchester.ac.uk/research/themes/numerical-analysis-and-scientific-computing/) and [Numerical Linear Algebra](https://www.maths.manchester.ac.uk/research/expertise/numerical-linear-algebra/) (NLA), focusing on the design, analysis, and development of numerical algorithms. I studied the computation of matrix functions in arbitrary precision arithmetic during my PhD, and my recent research has increasingly focused on mixed-precision NLA.
+My research is largely concerned with the design, analysis, and development of algorithms in numerical linear algebra. I studied the computation of matrix functions in arbitrary precision arithmetic during my PhD, and my recent research has increasingly focused on mixed-precision techniques and exponential integrators.
 
 I am currently a participant in the research project:
 - *[Matrix Functions and Exponential Integrators](https://sites.google.com/view/fabulous-dfg-scinet/)*, funded by the [DFG Scientific Networks](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/scientific-networks) programme, 2025.

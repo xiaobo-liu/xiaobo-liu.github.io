@@ -4,7 +4,7 @@ permalink: /miscellanea/
 title: Miscellanea
 description: Miscellaneous column.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 <p>I was a committee member of <a href="https://www.maths.manchester.ac.uk/~siam/">Manchester SlAM-lMA Student Chapter</a> from 2018 to 2022.</p>
@@ -24,8 +24,6 @@ nav_order: 6
 <li><a href="https://github.com/higham/chop">Chop</a>, for rounding matrix elements to lower precision</li>
 
 <li><a href="https://github.com/mmikaitis/anymatrix">Anymatrix</a> matrix collection</li>
-
-<li><a href="https://www.mpi-magdeburg.mpg.de/projects/morlab">MORLAB</a>, Model Order Reduction LABoratory</li>
 
 <li><a href="https://www.advanpix.com/">Advanpix</a> multiprecision computing toolbox</li>
 
