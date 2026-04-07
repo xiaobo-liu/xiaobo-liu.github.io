@@ -44,7 +44,7 @@ nav_order: 3
 </ul>
 
 
-<font size="5">Organizational activities</font>
+<font size="5">Organizational Activities</font>
 
 <ul>
     <li>Co-organizer of the Young Researchers Minisymposium on <a href="https://jahrestagung.gamm.org/joint-annual-meeting-2027/program/young-researchers-minisymposia/">Mixed Precision and GPU computing</a>, GAMM 97th Annual Meeting (with Thomas Bake). Ulm, Germany, March 8-12, 2027.</li>
