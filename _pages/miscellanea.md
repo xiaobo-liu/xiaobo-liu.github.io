@@ -13,6 +13,8 @@ nav_order: 7
 
 <p>My <a href="https://www.mathgenealogy.org/id.php?id=306215">Mathematics Genealogy Project entry</a>.</p>
 
+<p>A collection of my (co-)authored papers and preprints can be found in this <a href="https://github.com/xiaobo-liu/xliu-bib/blob/main/xliu-bib.bib">.bib file</a>.</p>
+
 <font size="5">MATLAB toolbox</font>
 
 <ul>

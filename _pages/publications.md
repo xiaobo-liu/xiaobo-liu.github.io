@@ -9,7 +9,7 @@ nav_order: 1
 
 <style>
   .pub-list li {
-    margin-bottom: 0.9rem;
+    margin-bottom: 0.00rem;
   }
 
   .bib-details {
@@ -49,7 +49,7 @@ nav_order: 1
   }
 </style>
 
-<p>A collection of my (co-)authored papers and preprints can be found in this <a href="https://github.com/xiaobo-liu/xliu-bib/blob/main/xliu-bib.bib">.bib file</a>.</p>
+
 
 <font size="5">Matrix Functions</font>
 
@@ -58,7 +58,7 @@ nav_order: 1
     <a href="https://epubs.siam.org/doi/10.1137/25M1765262">A scaling and recovering algorithm for the matrix \(\varphi\)-functions</a>
     (with A. H. Al-Mohy). SIAM J. Sci. Comput., 48(2):A726-A747, 2026.
     <details class="bib-details">
-      <summary>[bib]</summary>
+      <summary>[BibTeX]</summary>
       <div class="bib-box">
 <pre><code>@article{alli26,
   author = "Awad H. Al-Mohy and Xiaobo Liu",
@@ -78,7 +78,7 @@ nav_order: 1
     <a href="https://epubs.siam.org/doi/10.1137/22M1471559">Computing the square root of a low-rank perturbation of the scaled identity matrix</a>
     (with M. Fasi and N. J. Higham). SIAM J. Matrix Anal. Appl., 44(1):156-174, 2023.
     <details class="bib-details">
-      <summary>[bib]</summary>
+      <summary>[BibTeX]</summary>
       <div class="bib-box">
 <pre><code>@article{fhl23,
   author = "Massimiliano Fasi and Nicholas J. Higham and Xiaobo Liu",
@@ -99,7 +99,7 @@ nav_order: 1
     <a href="https://epubs.siam.org/doi/10.1137/21M1441043">Arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative</a>
     (with A. H. Al-Mohy and N. J. Higham). SIAM J. Matrix Anal. Appl., 43(1):233-256, 2022.
     <details class="bib-details">
-      <summary>[bib]</summary>
+      <summary>[BibTeX]</summary>
       <div class="bib-box">
 <pre><code>@article{ahl22,
   author = "Awad H. Al-Mohy and Nicholas J. Higham and Xiaobo Liu",
@@ -120,7 +120,7 @@ nav_order: 1
     <a href="https://epubs.siam.org/doi/10.1137/20M1365326">A multiprecision derivative-free Schur--Parlett algorithm for computing matrix functions</a>
     (with N. J. Higham). SIAM J. Matrix Anal. Appl., 42(3):1401-1422, 2021.
     <details class="bib-details">
-      <summary>[bib]</summary>
+      <summary>[BibTeX]</summary>
       <div class="bib-box">
 <pre><code>@article{hili21,
   author = "Nicholas J. Higham and Xiaobo Liu",
@@ -141,7 +141,7 @@ nav_order: 1
     <a href="https://research.manchester.ac.uk/en/studentTheses/computing-matrix-functions-in-arbitrary-precision-arithmetic-2"><i>Computing Matrix Functions in Arbitrary Precision Arithmetic</i></a>.
     Ph.D. Thesis, Department of Mathematics, The University of Manchester, Manchester, UK, June 2022.
     <details class="bib-details">
-      <summary>[bib]</summary>
+      <summary>[BibTeX]</summary>
       <div class="bib-box">
 <pre><code>@phdthesis{liu22,
   author = "Xiaobo Liu",
@@ -158,6 +158,8 @@ nav_order: 1
   </li>
 </ul>
 
+
+
 <font size="5">Mixed-Precision Methods in Numerical Linear Algebra</font>
 
 <ul class="pub-list">
@@ -165,7 +167,7 @@ nav_order: 1
     <a href="https://arxiv.org/abs/2510.02126">Mixed-precision iterative refinement for low-rank Lyapunov equations</a>
     (with P. Benner). ArXiv:2510.02126 [math.NA], October 2025.
     <details class="bib-details">
-      <summary>[bib]</summary>
+      <summary>[BibTeX]</summary>
       <div class="bib-box">
 <pre><code>@techreport{beli25,
   author = "Peter Benner and Xiaobo Liu",
@@ -183,7 +185,7 @@ nav_order: 1
     <a href="https://arxiv.org/abs/2503.03456">Mixed-precision algorithms for solving the Sylvester matrix equation</a>
     (with A. Dmytryshyn, M. Fasi, and N. J. Higham). ArXiv:2503.03456 [math.NA], March 2025; revised March 2026.
     <details class="bib-details">
-      <summary>[bib]</summary>
+      <summary>[BibTeX]</summary>
       <div class="bib-box">
 <pre><code>@techreport{dfhl25,
   author = "Andrii Dmytryshyn and Massimiliano Fasi and Nicholas J. Higham and Xiaobo Liu",
@@ -202,7 +204,7 @@ nav_order: 1
     <a href="https://epubs.siam.org/doi/10.1137/24M1683925">Mixed precision HODLR matrices</a>
     (with E. Carson and X. Chen). SIAM J. Sci. Comput., 47(3):A1408-A1435, 2025.
     <details class="bib-details">
-      <summary>[bib]</summary>
+      <summary>[BibTeX]</summary>
       <div class="bib-box">
 <pre><code>@article{ccl25,
   author = "Erin Carson and Xinye Chen and Xiaobo Liu",
@@ -222,7 +224,7 @@ nav_order: 1
     <a href="https://epubs.siam.org/doi/10.1137/24M1675734">Mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices</a>.
     SIAM J. Matrix Anal. Appl., 46(1):811-835, 2025.
     <details class="bib-details">
-      <summary>[bib]</summary>
+      <summary>[BibTeX]</summary>
       <div class="bib-box">
 <pre><code>@article{liu25,
   author = "Xiaobo Liu",
@@ -239,6 +241,8 @@ nav_order: 1
   </li>
 </ul>
 
+
+
 <font size="5">Low-Rank Matrix Equations</font>
 
 <ul class="pub-list">
@@ -246,7 +250,7 @@ nav_order: 1
     <a href="https://arxiv.org/abs/2603.12979">Reduced rank extrapolation for multi-term Sylvester equations</a>
     (with P. Benner, P. den Boef, P. Kürschner, and J. Saak). ArXiv:2603.12979 [math.NA], March 2026.
     <details class="bib-details">
-      <summary>[bib]</summary>
+      <summary>[BibTeX]</summary>
       <div class="bib-box">
 <pre><code>@techreport{bdkl26,
   author = "Peter Benner and den Boef, Pascal and Patrick K\"{u}rschner and Xiaobo Liu and Jens Saak",
@@ -264,7 +268,7 @@ nav_order: 1
     <a href="https://arxiv.org/abs/2502.09165">Generalizing reduced rank extrapolation to low-rank matrix sequences</a>
     (with P. den Boef, P. Kürschner, J. Maubach, J. Saak, W. Schilders, J. Schulze, and N. van de Wouw). ArXiv:2502.09165 [math.NA], February 2025; revised December 2025.
     <details class="bib-details">
-      <summary>[bib]</summary>
+      <summary>[BibTeX]</summary>
       <div class="bib-box">
 <pre><code>@techreport{dklm25,
   author = "den Boef, Pascal and Patrick K\"{u}rschner and Xiaobo Liu and Jos Maubach and Jens Saak and Wil Schilders and Jonas Schulze and van de Wouw, Nathan",
@@ -280,6 +284,8 @@ nav_order: 1
   </li>
 </ul>
 
+
+
 <font size="5">Miscellaneous Papers</font>
 
 <ul class="pub-list">
@@ -287,7 +293,7 @@ nav_order: 1
     <a href="https://arxiv.org/abs/2407.12208">Computing k-means in mixed precision</a>
     (with E. Carson and X. Chen). ArXiv:2407.12208 [math.NA], July 2024.
     <details class="bib-details">
-      <summary>[bib]</summary>
+      <summary>[BibTeX]</summary>
       <div class="bib-box">
 <pre><code>@techreport{ccl24,
   author = "Erin Carson and Xinye Chen and Xiaobo Liu",
@@ -306,7 +312,7 @@ nav_order: 1
     ArXiv:2504.00325 [math.NA], April 2025.
     <a href="https://eprints.maths.manchester.ac.uk/2883/">MIMS EPrint 2023.1</a>, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, January 2023.
     <details class="bib-details">
-      <summary>[bib]</summary>
+      <summary>[BibTeX]</summary>
       <div class="bib-box">
 <pre><code>@techreport{liu25a,
   author = "Xiaobo Liu",
