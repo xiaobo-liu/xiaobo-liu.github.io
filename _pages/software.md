@@ -7,6 +7,14 @@ nav: true
 nav_order: 2
 ---
 
+<font size="5">Matrix Collections</font>
+
+<ul>
+    <li> <a href="https://github.com/xiaobo-liu/matrices-expm"><b>matrices-expm</b></a><br>A collection of MATLAB test matrices for computing the matrix exponential.</li>
+    <li> <a href="https://github.com/xiaobo-liu/matrices-mp-cosm"><b>matrices-mp-cosm</b></a><br>A collection of MATLAB test matrices for computing the matrix cosine.</li>
+</ul>
+
+
 <font size="5">Matrix Functions</font>
 
 <ul>
@@ -14,13 +22,6 @@ nav_order: 2
     <li> <a href="https://github.com/xiaobo-liu/sqrtm-lrpsi"><b>sqrtm-lrpsi</b></a><br>Algorithms for computing the square root of low-rank-perturbed scaled identity matrix.</li>
     <li> <a href="https://github.com/xiaobo-liu/mp-cosm"><b>mp-cosm</b></a><br>Arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative.</li>
     <li> <a href="https://github.com/xiaobo-liu/mp-spalg"><b>mp-spalg</b></a><br>A multiprecision Schur--Parlett algorithm for computing matrix functions without using the derivatives.</li>
-</ul>
-
-<font size="5">Matrix Collections</font>
-
-<ul>
-    <li> <a href="https://github.com/xiaobo-liu/matrices-expm"><b>matrices-expm</b></a><br>A collection of MATLAB test matrices for computing the matrix exponential.</li>
-    <li> <a href="https://github.com/xiaobo-liu/matrices-mp-cosm"><b>matrices-mp-cosm</b></a><br>A collection of MATLAB test matrices for computing the matrix cosine.</li>
 </ul>
 
 
@@ -33,7 +34,7 @@ nav_order: 2
     <li> <a href="https://github.com/xiaobo-liu/mp-ps"><b>mp-ps</b></a><br>A mixed-precision Paterson--Stockmeyer algorithm for evaluating polynomials of matrices.</li>
 </ul>
 
-<font size="5">Mixed-Precision Machine Learning</font>
+<font size="5">Machine Learning in Mixed Precision </font>
 
 <ul>
     <li> <a href="https://github.com/open-sciml/mpkmeans"><b>mpkmeans</b></a><br>Mixed-precision \(k\)-means clustering algorithms.</li>
