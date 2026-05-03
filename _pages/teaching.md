@@ -10,20 +10,28 @@ nav_order: 5
 <style>
   .teaching .role {
     font-style: italic;
-    margin-bottom: 0.25em;
+    margin-top: 0em;
+    margin-bottom: 0.15em;
   }
 
   .teaching .role + ul {
     margin-top: 0.1em;
+    margin-bottom: 0.15em;
   }
 </style>
 
 
-<div style="margin-bottom: 0.4em;">
+<div style="margin-bottom: 0.3em;">
   <font size="5">Department of Mathematics, The University of Manchester</font>
 </div>
 
 <div class="teaching">
+
+<p class="role">Demonstrator -- independently led full tutorial classes.</p>
+
+<ul>
+    <li> 2019/20 S1 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19681">MATH19681</a> Mathematics for EEE, <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19661">MATH19661</a> Mathematics for MACE</li>
+</ul>
 
 <p class="role">Tutor -- independently led small-group tutorials.</p>
 
@@ -31,12 +39,6 @@ nav_order: 5
     <li> 2020/21 S2 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10212">MATH10212</a> Linear Algebra B</li>
     <li> 2020/21 S1 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10131">MATH10131</a> Calculus and Vectors B</li>
     <li> 2018/19 S2 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10222">MATH10222</a> Calculus and Applications A</li>
-</ul>
-
-<p class="role">Demonstrator -- independently led full tutorial classes.</p>
-
-<ul>
-    <li> 2019/20 S1 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19681">MATH19681</a> Mathematics for EEE, <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19661">MATH19661</a> Mathematics for MACE</li>
 </ul>
 
 <p class="role">Tutorial Assistant -- supported the lead instructor during tutorials.</p>
