@@ -7,9 +7,25 @@ nav: true
 nav_order: 5
 ---
 
-<font size="5">Department of Mathematics, The University of Manchester</font>
+<style>
+  .teaching .role {
+    font-style: italic;
+    margin-bottom: 0.25em;
+  }
 
-<i>Tutor -- independently led small-group tutorials.</i>
+  .teaching .role + ul {
+    margin-top: 0.1em;
+  }
+</style>
+
+
+<div style="margin-bottom: 0.4em;">
+  <font size="5">Department of Mathematics, The University of Manchester</font>
+</div>
+
+<div class="teaching">
+
+<p class="role">Tutor -- independently led small-group tutorials.</p>
 
 <ul>
     <li> 2020/21 S2 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10212">MATH10212</a> Linear Algebra B</li>
@@ -17,13 +33,13 @@ nav_order: 5
     <li> 2018/19 S2 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10222">MATH10222</a> Calculus and Applications A</li>
 </ul>
 
-<i>Demonstrator -- independently led full tutorial classes.</i>
+<p class="role">Demonstrator -- independently led full tutorial classes.</p>
 
 <ul>
     <li> 2019/20 S1 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19681">MATH19681</a> Mathematics for EEE, <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19661">MATH19661</a> Mathematics for MACE</li>
 </ul>
 
-<i>Tutorial Assistant -- supported the lead instructor during tutorials.</i>
+<p class="role">Tutorial Assistant -- supported the lead instructor during tutorials.</p>
 
 <ul>
     <li> 2021/22 S2 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10242">MATH10242</a> Sequences and Series, <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022">MATH36022</a> Numerical Analysis II</li>
