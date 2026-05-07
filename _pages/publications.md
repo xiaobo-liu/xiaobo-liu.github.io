@@ -117,7 +117,7 @@ nav_order: 1
   </li>
 
   <li>
-    <a href="https://epubs.siam.org/doi/10.1137/20M1365326">A multiprecision derivative-free Schur--Parlett algorithm for computing matrix functions</a>
+    <a href="https://epubs.siam.org/doi/10.1137/20M1365326">A multiprecision derivative-free Schur&ndash;Parlett algorithm for computing matrix functions</a>
     (with N. J. Higham). SIAM J. Matrix Anal. Appl., 42(3):1401-1422, 2021.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
@@ -221,7 +221,7 @@ nav_order: 1
   </li>
 
   <li>
-    <a href="https://epubs.siam.org/doi/10.1137/24M1675734">Mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices</a>.
+    <a href="https://epubs.siam.org/doi/10.1137/24M1675734">Mixed-precision Paterson&ndash;Stockmeyer method for evaluating polynomials of matrices</a>.
     SIAM J. Matrix Anal. Appl., 46(1):811-835, 2025.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
