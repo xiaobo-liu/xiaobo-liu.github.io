@@ -4,7 +4,7 @@ permalink: /visits/
 title: Visits
 description: Research is a journey through remarkable places. This map traces where my research has taken me.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />

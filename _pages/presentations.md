@@ -11,7 +11,7 @@ nav_order: 4
 
 <ul>
 
-<li><a href="../assets/pdf/talk-XTU26.pdf">Reduced Rank Extrapolation for Low-Rank Matrix Equations</a>. Shuyun Seminar, Xiangtan University, virtual (Xiangtan, China), May 6, 2026.
+<li><a href="../assets/pdf/talk-XTU26.pdf">Reduced Rank Extrapolation for Low-Rank Matrix Equations</a>. Shuyun Seminar (数韵学术报告), Xiangtan University, virtual (Xiangtan, China), May 6, 2026.
 </li>
 
 <li><a href="../assets/pdf/talk-GAMM26.pdf">A Scaling and Recovering Algorithm for the Matrix \(\varphi\)-Functions</a>. GAMM 96th Annual Meeting, Universität Stuttgart, Stuttgart, Germany, March 18, 2026.

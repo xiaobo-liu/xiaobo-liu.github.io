@@ -297,7 +297,7 @@ nav_order: 1
       <div class="bib-box">
 <pre><code>@techreport{ccl24,
   author = "Erin Carson and Xinye Chen and Xiaobo Liu",
-  title = "Computing $k$-means in mixed precision",
+  title = "Computing k-means in mixed precision",
   month = jul,
   year = 2024,
   type = "{ArXiv}:2407.12208 [math.{NA}]",

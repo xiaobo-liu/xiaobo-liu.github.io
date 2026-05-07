@@ -2,7 +2,7 @@
 layout: page
 permalink: /conferences/
 title: Conferences
-description: Upcoming and past conferences and workshops (in reverse chronological order).
+description: Upcoming and past conferences, workshops, and other research events.
 nav: true
 nav_order: 3
 ---
@@ -10,9 +10,12 @@ nav_order: 3
 <font size="5">Upcoming</font>
 
 <ul>
-    <li><a href="https://ilas2026.math.vt.edu/">27th Conference of the International Linear Algebra Society</a> (ILAS 2026). Virginia Tech, Blacksburg, VA, USA, May 18-22, 2026.</li>
+    <li><a href="https://ilas2026.math.vt.edu/">27th Conference of the International Linear Algebra Society</a> (ILAS 2026). Virginia Tech, Blacksburg, Virginia, USA, May 18-22, 2026.</li>
+    <li><a href="https://ahc.leeds.ac.uk/postdoctoral-fellowships/doc/marie-sklodowska-curie-actions-msca-postdoctoral-fellowships-eu-funded-postdocs">MSCA Postdoctoral Fellowships Summer School 2026</a>. University of Leeds, Leeds, UK, July 6-10, 2026.</li>
+    <li><a href="https://www.siam.org/programs-initiatives/programs/gene-golub-siam-summer-school/">The 2026 Gene Golub SIAM Summer School: Fault-tolerant Algorithms in Quantum Computing</a>. Duke University, Durham, North Carolina, USA, July 27-August 7, 2026.</li>
+    <li><a href="https://indico3.mpi-magdeburg.mpg.de/event/59/">Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra</a>. Otto-von-Guericke-University Magdeburg, Magdeburg, Germany, August 31-September 2, 2026.</li>
+    <li><a href="https://indico3.mpi-magdeburg.mpg.de/event/58/">GAMM Workshop on Applied and Numerical Linear Algebra 2026</a>. Otto-von-Guericke-University Magdeburg, Magdeburg, Germany, September 3-4, 2026.</li>
 </ul>
-
 
 <font size="5">Past</font>
 
@@ -24,7 +27,7 @@ nav_order: 3
     <li><a href="https://approxcomputing.sciencesconf.org/">Workshop on Approximate Computing in Numerical Linear Algebra</a>. Sorbonne Université, Paris, France, October 8-10, 2025.</li>
     <li><a href="https://enumath2025.eu/">European Conference on Numerical Mathematics and Advanced Applications</a>. Heidelberg University, Heidelberg, Germany, September 1-5, 2025.</li>
     <li><a href="https://ilas2025.tw/">26th Conference of the International Linear Algebra Society</a> (ILAS 2025). National Sun Yat-sen University, Kaohsiung, Taiwan, June 23-27, 2025.</li>
-    <li><a href="https://householder-symposium.org/">Householder Symposium XXII</a>. Cornell University, Ithaca, USA, June 8-13, 2025.</li>
+    <li><a href="https://householder-symposium.org/">Householder Symposium XXII</a>. Cornell University, Ithaca, New York, USA, June 8-13, 2025.</li>
     <li><a href="https://jahrestagung.gamm.org/annual-meeting-2025/95th-annual-meeting-2/">GAMM 95th Annual Meeting</a>. Poznań University of Technology, Poznań, Poland, April 7-11, 2025.</li>
     <li><a href="https://indico3.mpi-magdeburg.mpg.de/event/44/">Computational Methods in System and Control Theory Ringberg Workshop</a>. Tagungsstätte Schloss Ringberg, Reitrain, Germany, February 17-19, 2025.</li>
     <li><a href="https://www.uni-goettingen.de/en/687071.html">GAMM Workshop on Applied and Numerical Linear Algebra 2024</a>. Georg-August-Universität, Göttingen, Germany, September 23-24, 2024.</li>
@@ -42,18 +45,3 @@ nav_order: 3
     <li><a href="https://nla-group.org/advances-in-numerical-linear-algebra-2019/">Advances in Numerical Linear Algebra: Celebrating the Centenary of the Birth of James H. Wilkinson</a>. University of Manchester, Manchester, UK, May 29-30, 2019.</li>
     <li>Royal Society discussion meeting <a href="https://royalsociety.org/error-404/?item=%2fscience-events-and-lectures%2f2019%2f04%2fhigh-performance-computing%2f&user=extranet%5cAnonymous&site=website">Numerical Algorithms for High-Performance Computational Science</a>. The Royal Society, London, UK, April 8-9, 2019.</li>
 </ul>
-
-
-<font size="5">Organizational Activities</font>
-
-<ul>
-    <li>Co-organizer of the Young Researchers Minisymposium on <a href="https://jahrestagung.gamm.org/joint-annual-meeting-2027/program/young-researchers-minisymposia/">Mixed Precision and GPU computing</a>, GAMM 97th Annual Meeting (with Thomas Bake). Ulm, Germany, March 8-12, 2027.</li>
-    <li>Co-organizer of double minisymposium on <a href="https://ilas2026.math.vt.edu/program.html#section-mssessions">Approximate Computing in Numerical Linear Algebra</a>, 27th Conference of the International Linear Algebra Society (with Massimiliano Fasi). Virginia Tech, Blacksburg, VA, USA, May 18-22, 2026.</li>
-    <li>Co-organizer of double minisymposium on <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=85834">Mixed Precision Algorithms: A Rounding Error Analysis Perspective</a>, SIAM Conference on Parallel Processing for Scientific Computing (with Bastien Vieublé). Zuse Institute Berlin, Berlin, Germany, March 3-6, 2026.</li>
-    <li>Co-organizer of triple minisymposium on <a href="https://ilas2025.tw/program/mini/">New Methods in Numerical Multilinear Algebra</a> (with Anna Ma, Elizabeth Newman, and Eda Oktay) and double minisymposium on <a href="https://ilas2025.tw/program/mini/">Approximations and Errors in Krylov-based Solvers</a> (with Xin Liu and Bastien Vieublé), 26th Conference of the International Linear Algebra Society. National Sun Yat-sen University, Kaohsiung, Taiwan, June 23-27, 2025.</li>
-    <li>Co-organizer of double minisymposium on <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78782">Functions of Matrices and Actions thereof</a>, SIAM Conference on Applied Linear Algebra (with Massimiliano Fasi). Sorbonne Université, Paris, France, May 13-17, 2024.</li>
-    <li>Co-organizer of double minisymposium on <a href="https://numericalanalysisconference.org.uk/conferences/2023/participants">Approximate Computing in Numerical Linear Algebra</a>, 29th Biennial Numerical Analysis Conference (with Nick Higham and Bastien Vieublé). University of Strathclyde, Glasgow, UK, June 27-30, 2023.</li>
-    <li>Organizing Committee Member of Manchester SIAM-IMA Student Chapter Conference 2023. University of Manchester, Manchester, UK, April 27, 2023.</li>
-    <li>Co-organizer of double minisymposium on <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70846">Computing Functions of Matrices</a>, SIAM conference on Applied Linear Algebra (with Massimiliano Fasi). virtual (New Orleans, USA), May 17-21, 2021.</li>
-    <li>Organizing Committee Member of SIAM UKIE National Student Chapter Conference 2019. University of Manchester, Manchester, UK, June 10-11, 2019.</li>
-</ul>		

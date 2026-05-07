@@ -4,7 +4,7 @@ permalink: /miscellanea/
 title: Miscellanea
 description: Miscellaneous column.
 nav: true
-nav_order: 7
+nav_order: 8
 ---
 
 <p>I was a committee member of <a href="https://www.maths.manchester.ac.uk/~siam/">Manchester SlAM-lMA Student Chapter</a> from 2018 to 2022.</p>
