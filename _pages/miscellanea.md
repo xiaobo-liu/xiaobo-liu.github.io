@@ -7,7 +7,7 @@ nav: true
 nav_order: 8
 ---
 
-<p>I was a committee member of <a href="https://www.maths.manchester.ac.uk/~siam/">Manchester SlAM-lMA Student Chapter</a> from 2018 to 2022.</p>
+<p>I was a committee member of <a href="https://www.maths.manchester.ac.uk/~siam/">Manchester SIAM-IMA Student Chapter</a> from 2018 to 2022.</p>
 
 <p>I participated in the research project <i>Matrix Functions and Equations</i>, led by <a href="https://scholar.google.com/citations?user=cvkTSSgAAAAJ&hl=en">Prof. Awad H. Al-Mohy</a> and funded by King Khalid University (grant RGP.1/318/45), 2024-2025.</p>
 
