@@ -11,8 +11,8 @@ nav_order: 3
 
 <ul>
     <li><a href="https://ilas2026.math.vt.edu/">27th Conference of the International Linear Algebra Society</a> (ILAS 2026). Virginia Tech, Blacksburg, Virginia, USA, May 18-22, 2026.</li>
-    <li><a href="https://ahc.leeds.ac.uk/postdoctoral-fellowships/doc/marie-sklodowska-curie-actions-msca-postdoctoral-fellowships-eu-funded-postdocs">MSCA Postdoctoral Fellowships Summer School 2026</a>. University of Leeds, Leeds, UK, July 6-10, 2026.</li>
-    <li><a href="https://www.siam.org/programs-initiatives/programs/gene-golub-siam-summer-school/">The 2026 Gene Golub SIAM Summer School: Fault-tolerant Algorithms in Quantum Computing</a>. Duke University, Durham, North Carolina, USA, July 27-August 7, 2026.</li>
+    <li><a href="https://www.leeds.ac.uk/">Leeds MSCA Postdoctoral Fellowships Summer School 2026</a>. University of Leeds, Leeds, UK, July 6-10, 2026.</li>
+    <li><a href="https://www.siam.org/programs-initiatives/programs/gene-golub-siam-summer-school/">Gene Golub SIAM Summer School 2026: Fault-tolerant Algorithms in Quantum Computing</a>. Duke University, Durham, North Carolina, USA, July 27-August 7, 2026.</li>
     <li><a href="https://indico3.mpi-magdeburg.mpg.de/event/59/">Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra</a>. Otto-von-Guericke-University Magdeburg, Magdeburg, Germany, August 31-September 2, 2026.</li>
     <li><a href="https://indico3.mpi-magdeburg.mpg.de/event/58/">GAMM Workshop on Applied and Numerical Linear Algebra 2026</a>. Otto-von-Guericke-University Magdeburg, Magdeburg, Germany, September 3-4, 2026.</li>
 </ul>
@@ -22,7 +22,7 @@ nav_order: 3
 <ul>
     <li><a href="https://jahrestagung.gamm.org/annual-meeting-2026/96th-annual-meeting-2/">GAMM 96th Annual Meeting</a>. Universität Stuttgart, Stuttgart, Germany, March 16-20, 2026.</li>
     <li><a href="https://www.siam.org/conferences-events/siam-conferences/pp26/">SIAM Conference on Parallel Processing for Scientific Computing</a> (PP26). Zuse Institute Berlin, Berlin, Germany, March 3-6, 2026.</li>
-    <li><a href="https://sites.google.com/view/fabulous-dfg-scinet/events">The f(A)bulous Scientific Network Meeting</a>. University of Wuppertal, Wuppertal, Germany, February 23-25, 2026.</li>
+    <li><a href="https://sites.google.com/view/fabulous-dfg-scinet/events">The f(A)bulous Scientific Network Meeting I</a>. University of Wuppertal, Wuppertal, Germany, February 23-25, 2026.</li>
     <li><a href="https://events.unibo.it/gamm-anla-2025">GAMM Workshop on Applied and Numerical Linear Algebra 2025</a>. Università di Bologna, Bologna, Italy, October 23-24, 2025.</li>
     <li><a href="https://approxcomputing.sciencesconf.org/">Workshop on Approximate Computing in Numerical Linear Algebra</a>. Sorbonne Université, Paris, France, October 8-10, 2025.</li>
     <li><a href="https://enumath2025.eu/">European Conference on Numerical Mathematics and Advanced Applications</a>. Heidelberg University, Heidelberg, Germany, September 1-5, 2025.</li>

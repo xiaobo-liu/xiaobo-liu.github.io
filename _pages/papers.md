@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
+permalink: /papers/
+title: Papers
 description: Links to peer-reviewed articles, preprints, and my PhD thesis.
 nav: true
 nav_order: 1

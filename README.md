@@ -12,7 +12,7 @@ This repository is the source of the public website. Do not edit files inside `_
 
 Useful source locations:
 
-- `_pages/`: main website pages, including `about.md`, `publications.md`, `presentations.md`, `teaching.md`, `software.md`, and related pages.
+- `_pages/`: main website pages, including `about.md`, `papers.md`, `talks.md`, `teaching.md`, `software.md`, and related pages.
 - `_news/`: news announcements shown on the news page.
 - `assets/img/`: profile and logo images.
 - `assets/pdf/`: PDFs linked from the website.

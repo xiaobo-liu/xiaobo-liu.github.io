@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /presentations/
-title: Presentations
-description: Selected presentations at conferences, workshops, and seminars.
+permalink: /talks/
+title: Talks
+description: Slides from selected talks at conferences, workshops, and seminars.
 nav: true
 nav_order: 4
 ---
@@ -44,9 +44,6 @@ nav_order: 4
 <li><a href="../assets/pdf/talk-ILAS25.pdf">Generalizing Reduced Rank Extrapolation (RRE) to Low-Rank Matrix Sequences</a>. 26th Conference of the International Linear Algebra Society. National Sun Yat-sen University, Kaohsiung, Taiwan, June 26, 2025.
 </li>
 
-<li><a href="../assets/pdf/poster-HH25.pdf">Mixed Precision HODLR Matrices</a>. Householder Symposium XXII. Cornell University, Ithaca, USA, June 10, 2025. <a href="../assets/pdf/extended_abstract-HH25.pdf">Submitted extended abstract</a>.
-</li>
-
 <li><a href="../assets/pdf/talk-GAMM25.pdf">Mixed-Precision Iterative Refinement for Low-Rank Lyapunov Equations</a>. GAMM 95th Annual Meeting, Poznań University of Technology, Poznań, Poland, April 8, 2025.
 </li>
 
@@ -55,9 +52,6 @@ nav_order: 4
 <font size="5">2024</font>
 
 <ul>
-
-<li><a href="../assets/pdf/poster-CIRM-NLAC24.pdf">Mixed-Precision Algorithms for Sylvester Equations</a>. Numerical Linear Algebra Conference, CIRM-Luminy, Marseille, France, September 18, 2024.
-</li>
 
 <li><a href="../assets/pdf/talk-SIAMLA24.pdf">Mixed-Precision Paterson–Stockmeyer Method for Evaluating Polynomials of Matrices</a>. SIAM Conference on Applied Linear Algebra, Sorbonne Université, Paris, France, May 17, 2024.
 </li>

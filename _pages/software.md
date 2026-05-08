@@ -33,15 +33,16 @@ nav_order: 2
     <li> <a href="https://github.com/xiaobo-liu/mp-ps"><b>mp-ps</b></a><br>A mixed-precision Paterson&ndash;Stockmeyer algorithm for evaluating polynomials of matrices.</li>
 </ul>
 
-<font size="5">Machine Learning in Mixed Precision </font>
-
-<ul>
-    <li> <a href="https://github.com/open-sciml/mpkmeans"><b>mpkmeans</b></a><br>Mixed-precision k-means clustering algorithms.</li>
-</ul>
-
 <font size="5">Low-Rank Matrix Equations</font>
 
 <ul>
     <li> <a href="https://zenodo.org/records/17880162"><b>rre-lr</b></a><br>Reduced rank extrapolation for low-rank matrix iterates and nonstationary fixed-point processes.</li>
     <li> <a href="https://zenodo.org/records/18669965"><b>rre-lr-multiSylv</b></a><br>Reduced rank extrapolation for low-rank multi-term Sylvester matrix equations.</li>
 </ul>
+
+<font size="5">Machine Learning in Mixed Precision </font>
+
+<ul>
+    <li> <a href="https://github.com/open-sciml/mpkmeans"><b>mpkmeans</b></a><br>Mixed-precision k-means clustering algorithms.</li>
+</ul>
+
