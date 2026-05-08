@@ -1,0 +1,16 @@
+source "https://rubygems.org"
+
+group :jekyll_plugins do
+  gem "base64"
+  gem "bigdecimal"
+  gem "css_parser", "1.17.1"
+  gem "csv"
+  gem "jekyll", "4.3.3"
+  gem "jekyll-feed", "0.17.0"
+  gem "jekyll-link-attributes", "1.0.1"
+  gem "jekyll-minifier", "0.1.10"
+  gem "jekyll-sass-converter", "~> 2.2"
+  gem "jekyll-sitemap", "1.4.0"
+  gem "nokogiri", "1.16.7"
+  gem "webrick", "1.8.1"
+end

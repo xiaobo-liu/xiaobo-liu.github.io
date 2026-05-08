@@ -1,0 +1,12 @@
+# Local preview overrides.
+#
+# The production config keeps optional responsive image generation enabled.
+# Local preview disables it so the site can build without ImageMagick.
+plugins:
+  - jekyll-feed
+  - jekyll-link-attributes
+  - jekyll-minifier
+  - jekyll-sitemap
+
+imagemagick:
+  enabled: false

@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+LOCAL_RUBY_DIR="$ROOT/vendor/ruby-3.3.11-local-yaml"
+
+if [[ -x "$LOCAL_RUBY_DIR/bin/ruby" ]]; then
+  export PATH="$LOCAL_RUBY_DIR/bin:$PATH"
+elif ! command -v ruby >/dev/null 2>&1; then
+  echo "Ruby was not found." >&2
+  echo "Install Ruby 3 and Bundler 2.5.7, then run this script again." >&2
+  exit 1
+elif ! ruby -e 'exit Gem::Version.new(RUBY_VERSION) >= Gem::Version.new("3.0.0") ? 0 : 1'; then
+  echo "Ruby 3 or newer is required for local preview." >&2
+  echo "Current Ruby: $(ruby -v)" >&2
+  exit 1
+fi
+
+export BUNDLE_GEMFILE="$ROOT/Gemfile.local"
+
+if [[ -d /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk ]]; then
+  export SDKROOT=/Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
+fi
+
+if [[ -d "$ROOT/vendor/libyaml-0.2.5-local/lib/pkgconfig" ]]; then
+  export PKG_CONFIG_PATH="$ROOT/vendor/libyaml-0.2.5-local/lib/pkgconfig:${PKG_CONFIG_PATH:-}"
+fi
+
+cd "$ROOT"
+if ! bundle _2.5.7_ --version >/dev/null 2>&1; then
+  echo "Bundler 2.5.7 is required." >&2
+  echo "Install it with: gem install bundler -v 2.5.7" >&2
+  exit 1
+fi
+
+bundle _2.5.7_ config set --local path vendor/bundle
+bundle _2.5.7_ check || bundle _2.5.7_ install
+bundle _2.5.7_ exec jekyll serve --config _config.yml,_config_local.yml --livereload "$@"
