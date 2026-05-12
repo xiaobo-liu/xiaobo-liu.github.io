@@ -183,7 +183,7 @@ nav_order: 1
 
   <li>
     <a href="https://arxiv.org/abs/2503.03456">Mixed-precision algorithms for solving the Sylvester matrix equation</a>
-    (with A. Dmytryshyn, M. Fasi, and N. J. Higham). ArXiv:2503.03456 [math.NA], March 2025; revised March 2026.
+    (with A. Dmytryshyn, M. Fasi, and N. J. Higham). ArXiv:2503.03456 [math.NA], March 2025; revised March 2026. To appear in SIAM J. Sci. Comput.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -194,7 +194,7 @@ nav_order: 1
   year = 2025,
   type = "{ArXiv}:2503.03456 [math.{NA}]",
   url = "https://arxiv.org/abs/2503.03456v2",
-  note = "Revised March 2026"
+  note = "Revised March 2026. To appear in SIAM J. Sci. Comput."
 }</code></pre>
       </div>
     </details>
