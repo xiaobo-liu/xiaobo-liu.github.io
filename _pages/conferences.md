@@ -10,7 +10,6 @@ nav_order: 3
 <font size="5">Upcoming</font>
 
 <ul>
-    <li><a href="https://ilas2026.math.vt.edu/">27th Conference of the International Linear Algebra Society</a> (ILAS 2026). Virginia Tech, Blacksburg, Virginia, USA, May 18-22, 2026.</li>
     <li><a href="https://www.leeds.ac.uk/">Leeds MSCA Postdoctoral Fellowships Summer School 2026</a>. University of Leeds, Leeds, UK, July 6-10, 2026.</li>
     <li><a href="https://www.siam.org/programs-initiatives/programs/gene-golub-siam-summer-school/">Gene Golub SIAM Summer School 2026: Fault-tolerant Algorithms in Quantum Computing</a>. Duke University, Durham, North Carolina, USA, July 27-August 7, 2026.</li>
     <li><a href="https://indico3.mpi-magdeburg.mpg.de/event/59/">Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra</a>. Otto-von-Guericke-University Magdeburg, Magdeburg, Germany, August 31-September 2, 2026.</li>
@@ -20,6 +19,7 @@ nav_order: 3
 <font size="5">Past</font>
 
 <ul>
+    <li><a href="https://ilas2026.math.vt.edu/">27th Conference of the International Linear Algebra Society</a> (ILAS 2026). Virginia Tech, Blacksburg, Virginia, USA, May 18-22, 2026.</li>
     <li><a href="https://jahrestagung.gamm.org/annual-meeting-2026/96th-annual-meeting-2/">GAMM 96th Annual Meeting</a>. Universität Stuttgart, Stuttgart, Germany, March 16-20, 2026.</li>
     <li><a href="https://www.siam.org/conferences-events/siam-conferences/pp26/">SIAM Conference on Parallel Processing for Scientific Computing</a> (PP26). Zuse Institute Berlin, Berlin, Germany, March 3-6, 2026.</li>
     <li><a href="https://sites.google.com/view/fabulous-dfg-scinet/events">The f(A)bulous Scientific Network Meeting I</a>. University of Wuppertal, Wuppertal, Germany, February 23-25, 2026.</li>

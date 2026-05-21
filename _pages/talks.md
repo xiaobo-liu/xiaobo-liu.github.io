@@ -11,14 +11,23 @@ nav_order: 4
 
 <ul>
 
+<li><a href="../assets/pdf/talk-ILAS26.pdf">Reduced Rank Extrapolation for Low-Rank Matrix Equations</a>. 27th Conference of the International Linear Algebra Society. Virginia Tech, Blacksburg, Virginia, USA, May 18, 2026.
+</li>
+
 <li><a href="../assets/pdf/talk-XTU26.pdf">Reduced Rank Extrapolation for Low-Rank Matrix Equations</a>. Shuyun Seminar (数韵学术报告), Xiangtan University, virtual (Xiangtan, China), May 6, 2026.
 </li>
 
 <li><a href="../assets/pdf/talk-GAMM26.pdf">A Scaling and Recovering Algorithm for the Matrix \(\varphi\)-Functions</a>. GAMM 96th Annual Meeting, Universität Stuttgart, Stuttgart, Germany, March 18, 2026.
 </li>
 
+<li><a href="../assets/pdf/talk-SIAMPP26-re.pdf">Mixed-Precision Algorithms for Solving the Sylvester Matrix Equations</a>. SIAM Conference on Parallel Processing for Scientific Computing, Zuse Institute Berlin, Berlin, Germany, March 4, 2026.
+</li>
+
 <li><a href="../assets/pdf/talk-SIAMPP26.pdf">Mixed Precision HODLR Matrices</a>. SIAM Conference on Parallel Processing for Scientific Computing, Zuse Institute Berlin, Berlin, Germany, March 3, 2026.
 </li>
+
+<li><a href="../assets/pdf/talk-fAb-2602.pdf">A Scaling and Recovering Algorithm for the Matrix \(\varphi\)-Functions</a>. The f(A)bulous Scientific Network Meeting I. University of Wuppertal, Wuppertal, Germany, February 24, 2026.</li>
+
 
 </ul>
 

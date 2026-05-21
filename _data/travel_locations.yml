@@ -1,3 +1,10 @@
+- title: ILAS
+  location: Blacksburg, VA, USA
+  lat: 37.2220
+  lng: -80.4260
+  date: 2026-05
+  category: conference
+
 - title: GAMM
   location: Stuttgart, Germany
   lat: 48.7758
@@ -48,7 +55,7 @@
   category: visit
 
 - title: Householder
-  location: Ithaca, USA
+  location: Ithaca, NY, USA
   lat: 42.4430
   lng: -76.5019
   date: 2025-06
