@@ -165,7 +165,7 @@ nav_order: 1
 <ul class="pub-list">
   <li>
     <a href="https://arxiv.org/abs/2510.02126">Mixed-precision iterative refinement for low-rank Lyapunov equations</a>
-    (with P. Benner). ArXiv:2510.02126 [math.NA], October 2025.
+    (with P. Benner). ArXiv:2510.02126 [math.NA], October 2025. revised May 2026.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -175,7 +175,8 @@ nav_order: 1
   month = oct,
   year = 2025,
   type = "{ArXiv}:2510.02126 [math.{NA}]",
-  url = "https://arxiv.org/abs/2510.02126"
+  url = "https://arxiv.org/abs/2510.02126",
+  note = "revised May 2026"
 }</code></pre>
       </div>
     </details>
@@ -193,8 +194,8 @@ nav_order: 1
   month = mar,
   year = 2025,
   type = "{ArXiv}:2503.03456 [math.{NA}]",
-  url = "https://arxiv.org/abs/2503.03456v2",
-  note = "Revised March 2026. To appear in SIAM J. Sci. Comput."
+  url = "https://arxiv.org/abs/2503.03456",
+  note = "revised March 2026. To appear in SIAM J. Sci. Comput."
 }</code></pre>
       </div>
     </details>
@@ -266,7 +267,7 @@ nav_order: 1
 
   <li>
     <a href="https://arxiv.org/abs/2502.09165">Generalizing reduced rank extrapolation to low-rank matrix sequences</a>
-    (with P. den Boef, P. Kürschner, J. Maubach, J. Saak, W. Schilders, J. Schulze, and N. van de Wouw). ArXiv:2502.09165 [math.NA], February 2025; revised December 2025.
+    (with P. den Boef, P. Kürschner, J. Maubach, J. Saak, W. Schilders, J. Schulze, and N. van de Wouw). ArXiv:2502.09165 [math.NA], February 2025; revised December 2025. To appear in Numer. Algorithms.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -277,7 +278,7 @@ nav_order: 1
   year = 2025,
   type = "{ArXiv}:2502.09165 [math.{NA}]",
   url = "https://arxiv.org/abs/2502.09165",
-  note = "Revised December 2025"
+  note = "revised December 2025. To appear in Numer. Algorithms"
 }</code></pre>
       </div>
     </details>
@@ -291,7 +292,7 @@ nav_order: 1
 <ul class="pub-list">
   <li>
     <a href="https://arxiv.org/abs/2407.12208">Computing k-means in mixed precision</a>
-    (with E. Carson and X. Chen). ArXiv:2407.12208 [math.NA], July 2024.
+    (with E. Carson and X. Chen). ArXiv:2407.12208 [math.NA], July 2024; revised May 2026.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -301,7 +302,8 @@ nav_order: 1
   month = jul,
   year = 2024,
   type = "{ArXiv}:2407.12208 [math.{NA}]",
-  url = "https://arxiv.org/abs/2407.12208"
+  url = "https://arxiv.org/abs/2407.12208",
+  note = "revised May 2026"
 }</code></pre>
       </div>
     </details>
