@@ -27,7 +27,7 @@ nav_order: 2
 <font size="5">Mixed-Precision Methods in Numerical Linear Algebra</font>
 
 <ul>
-    <li> <a href="https://github.com/xiaobo-liu/mplyap"><b>mplyap</b></a><br>Mixed-precision iterative refinement for low-rank Lyapunov equations.</li>
+    <li> <a href="https://github.com/xiaobo-liu/mpir-lrlyap"><b>mpir-lrlyap</b></a><br>Mixed-precision iterative refinement for low-rank Lyapunov equations.</li>
     <li> <a href="https://github.com/north-numerical-computing/mixed-precision-sylvester"><b>mixed-precision-sylvester</b></a><br>Solving the Sylvester matrix equation in mixed precisions via new iterative refinement schemes.</li> 
     <li> <a href="https://github.com/chenxinye/mhodlr"><b>mhodlr</b></a><br>Matrix computations with Hierarchical Off-Diagonal Low-Rank (HODLR) format and mixed precision.</li>
     <li> <a href="https://github.com/xiaobo-liu/mp-ps"><b>mp-ps</b></a><br>A mixed-precision Paterson&ndash;Stockmeyer algorithm for evaluating polynomials of matrices.</li>
