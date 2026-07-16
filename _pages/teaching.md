@@ -27,13 +27,13 @@ nav_order: 5
 
 <div class="teaching">
 
-<p class="role">Demonstrator -- independently led full tutorial classes.</p>
+<p class="role">Demonstrator -- led tutorial classes of approximately 30 students.</p>
 
 <ul>
     <li> 2019/20 S1 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19681">MATH19681</a> Mathematics for EEE, <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19661">MATH19661</a> Mathematics for MACE</li>
 </ul>
 
-<p class="role">Tutor -- independently led small-group tutorials.</p>
+<p class="role">Tutor -- led small-group tutorials.</p>
 
 <ul>
     <li> 2020/21 S2 &nbsp; <a href="https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10212">MATH10212</a> Linear Algebra B</li>
