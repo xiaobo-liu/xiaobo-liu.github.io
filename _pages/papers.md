@@ -55,8 +55,24 @@ nav_order: 1
 
 <ul class="pub-list">
   <li>
-    <a href="https://epubs.siam.org/doi/10.1137/25M1765262">A scaling and recovering algorithm for the matrix \(\varphi\)-functions</a>
-    (with A. H. Al-Mohy). SIAM J. Sci. Comput., 48(2):A726-A747, 2026.
+    <a href="https://arxiv.org/abs/2607.17819">Field-of-values analysis of augmented Krylov methods for matrix \(\varphi\)-function actions</a> (with M. Schweitzer). ArXiv:2607.17819 [math.NA], July 2026.
+    <details class="bib-details">
+      <summary>[BibTeX]</summary>
+      <div class="bib-box">
+<pre><code>@techreport{lisc26,
+  author = "Xiaobo Liu and Marcel Schweitzer",
+  title = "Field-of-values analysis of augmented {Krylov} methods for matrix $\varphi$-function actions",
+  month = jul,
+  year = 2026,
+  type = "{ArXiv}:2607.17819 [math.{NA}]",
+  url = "https://arxiv.org/abs/2607.17819"
+}</code></pre>
+      </div>
+    </details>
+  </li>
+
+  <li>
+    <a href="https://epubs.siam.org/doi/10.1137/25M1765262">A scaling and recovering algorithm for the matrix \(\varphi\)-functions</a> (with A. H. Al-Mohy). SIAM J. Sci. Comput., 48(2):A726-A747, 2026.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -75,8 +91,7 @@ nav_order: 1
   </li>
 
   <li>
-    <a href="https://epubs.siam.org/doi/10.1137/22M1471559">Computing the square root of a low-rank perturbation of the scaled identity matrix</a>
-    (with M. Fasi and N. J. Higham). SIAM J. Matrix Anal. Appl., 44(1):156-174, 2023.
+    <a href="https://epubs.siam.org/doi/10.1137/22M1471559">Computing the square root of a low-rank perturbation of the scaled identity matrix</a> (with M. Fasi and N. J. Higham). SIAM J. Matrix Anal. Appl., 44(1):156-174, 2023.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -96,8 +111,7 @@ nav_order: 1
   </li>
 
   <li>
-    <a href="https://epubs.siam.org/doi/10.1137/21M1441043">Arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative</a>
-    (with A. H. Al-Mohy and N. J. Higham). SIAM J. Matrix Anal. Appl., 43(1):233-256, 2022.
+    <a href="https://epubs.siam.org/doi/10.1137/21M1441043">Arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative</a> (with A. H. Al-Mohy and N. J. Higham). SIAM J. Matrix Anal. Appl., 43(1):233-256, 2022.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -117,8 +131,7 @@ nav_order: 1
   </li>
 
   <li>
-    <a href="https://epubs.siam.org/doi/10.1137/20M1365326">A multiprecision derivative-free Schur&ndash;Parlett algorithm for computing matrix functions</a>
-    (with N. J. Higham). SIAM J. Matrix Anal. Appl., 42(3):1401-1422, 2021.
+    <a href="https://epubs.siam.org/doi/10.1137/20M1365326">A multiprecision derivative-free Schur&ndash;Parlett algorithm for computing matrix functions</a> (with N. J. Higham). SIAM J. Matrix Anal. Appl., 42(3):1401-1422, 2021.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -138,8 +151,7 @@ nav_order: 1
   </li>
 
   <li>
-    <a href="https://research.manchester.ac.uk/en/studentTheses/computing-matrix-functions-in-arbitrary-precision-arithmetic-2"><i>Computing Matrix Functions in Arbitrary Precision Arithmetic</i></a>.
-    Ph.D. Thesis, Department of Mathematics, The University of Manchester, Manchester, UK, June 2022.
+    <a href="https://research.manchester.ac.uk/en/studentTheses/computing-matrix-functions-in-arbitrary-precision-arithmetic-2"><i>Computing Matrix Functions in Arbitrary Precision Arithmetic</i></a>. Ph.D. Thesis, Department of Mathematics, The University of Manchester, Manchester, UK, June 2022.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -164,8 +176,7 @@ nav_order: 1
 
 <ul class="pub-list">
   <li>
-    <a href="https://arxiv.org/abs/2510.02126">Mixed-precision iterative refinement for low-rank Lyapunov equations</a>
-    (with P. Benner). ArXiv:2510.02126 [math.NA], October 2025. revised May 2026.
+    <a href="https://arxiv.org/abs/2510.02126">Mixed-precision iterative refinement for low-rank Lyapunov equations</a> (with P. Benner). ArXiv:2510.02126 [math.NA], October 2025. revised May 2026.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -183,8 +194,7 @@ nav_order: 1
   </li>
 
   <li>
-    <a href="https://arxiv.org/abs/2503.03456">Mixed-precision algorithms for solving the Sylvester matrix equation</a>
-    (with A. Dmytryshyn, M. Fasi, and N. J. Higham). ArXiv:2503.03456 [math.NA], March 2025; revised March 2026. To appear in SIAM J. Sci. Comput.
+    <a href="https://arxiv.org/abs/2503.03456">Mixed-precision algorithms for solving the Sylvester matrix equation</a> (with A. Dmytryshyn, M. Fasi, and N. J. Higham). ArXiv:2503.03456 [math.NA], March 2025; revised March 2026. To appear in SIAM J. Sci. Comput.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -202,8 +212,7 @@ nav_order: 1
   </li>
 
   <li>
-    <a href="https://epubs.siam.org/doi/10.1137/24M1683925">Mixed precision HODLR matrices</a>
-    (with E. Carson and X. Chen). SIAM J. Sci. Comput., 47(3):A1408-A1435, 2025.
+    <a href="https://epubs.siam.org/doi/10.1137/24M1683925">Mixed precision HODLR matrices</a> (with E. Carson and X. Chen). SIAM J. Sci. Comput., 47(3):A1408-A1435, 2025.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -222,8 +231,7 @@ nav_order: 1
   </li>
 
   <li>
-    <a href="https://epubs.siam.org/doi/10.1137/24M1675734">Mixed-precision Paterson&ndash;Stockmeyer method for evaluating polynomials of matrices</a>.
-    SIAM J. Matrix Anal. Appl., 46(1):811-835, 2025.
+    <a href="https://epubs.siam.org/doi/10.1137/24M1675734">Mixed-precision Paterson&ndash;Stockmeyer method for evaluating polynomials of matrices</a>. SIAM J. Matrix Anal. Appl., 46(1):811-835, 2025.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -248,8 +256,7 @@ nav_order: 1
 
 <ul class="pub-list">
   <li>
-    <a href="https://arxiv.org/abs/2603.12979">Reduced rank extrapolation for multi-term Sylvester equations</a>
-    (with P. Benner, P. den Boef, P. Kürschner, and J. Saak). ArXiv:2603.12979 [math.NA], March 2026.
+    <a href="https://arxiv.org/abs/2603.12979">Reduced rank extrapolation for multi-term Sylvester equations</a> (with P. Benner, P. den Boef, P. Kürschner, and J. Saak). ArXiv:2603.12979 [math.NA], March 2026.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -266,8 +273,7 @@ nav_order: 1
   </li>
 
   <li>
-    <a href="https://arxiv.org/abs/2502.09165">Generalizing reduced rank extrapolation to low-rank matrix sequences</a>
-    (with P. den Boef, P. Kürschner, J. Maubach, J. Saak, W. Schilders, J. Schulze, and N. van de Wouw). ArXiv:2502.09165 [math.NA], February 2025; revised December 2025. To appear in Numer. Algorithms.
+    <a href="https://arxiv.org/abs/2502.09165">Generalizing reduced rank extrapolation to low-rank matrix sequences</a> (with P. den Boef, P. Kürschner, J. Maubach, J. Saak, W. Schilders, J. Schulze, and N. van de Wouw). ArXiv:2502.09165 [math.NA], February 2025; revised December 2025. To appear in Numer. Algorithms.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -291,8 +297,7 @@ nav_order: 1
 
 <ul class="pub-list">
   <li>
-    <a href="https://arxiv.org/abs/2407.12208">Computing k-means in mixed precision</a>
-    (with E. Carson and X. Chen). ArXiv:2407.12208 [math.NA], July 2024; revised May 2026.
+    <a href="https://arxiv.org/abs/2407.12208">Computing k-means in mixed precision</a> (with E. Carson and X. Chen). ArXiv:2407.12208 [math.NA], July 2024; revised May 2026.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -310,8 +315,7 @@ nav_order: 1
   </li>
 
   <li>
-    <a href="https://arxiv.org/abs/2504.00325">A note on the cross matrices</a>.
-    ArXiv:2504.00325 [math.NA], April 2025.
+    <a href="https://arxiv.org/abs/2504.00325">A note on the cross matrices</a>. ArXiv:2504.00325 [math.NA], April 2025.
     <a href="https://eprints.maths.manchester.ac.uk/2883/">MIMS EPrint 2023.1</a>, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, January 2023.
     <details class="bib-details">
       <summary>[BibTeX]</summary>

@@ -18,6 +18,7 @@ nav_order: 2
 <font size="5">Matrix Functions</font>
 
 <ul>
+    <li> <a href="https://github.com/xiaobo-liu/phimv_krylov_aug"><b>phimv_kry_aug</b></a><br>MATLAB codes for computing matrix \(\varphi\)-function actions using different bases; Krylov errors and field-of-values bounds are compared.</li>
     <li> <a href="https://github.com/xiaobo-liu/phi_funm"><b>phi_funm</b></a><br>An algorithm for computing matrix \(\varphi\)-functions arising in exponential integrators.</li>
     <li> <a href="https://github.com/xiaobo-liu/sqrtm-lrpsi"><b>sqrtm-lrpsi</b></a><br>Algorithms for computing the square root of low-rank-perturbed scaled identity matrix.</li>
     <li> <a href="https://github.com/xiaobo-liu/mp-cosm"><b>mp-cosm</b></a><br>Arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative.</li>
