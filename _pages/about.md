@@ -6,10 +6,11 @@ subtitle:
 
 profile:
   align: right
-  image: myprofile.png
+  image: myprofile2.png
   image_circular: false # crops the image to make it circular
+  caption: Photograph by Nick Higham, in grateful remembrance.
   more_info: >
-    <p>MPI-DCTS, Sandtorstr. 1</p>
+    <p>MPI for Dynamics of Complex Technical Systems, Sandtorstr. 1</p>
     <p>39106 Magdeburg, Germany</p>
 
 news: true # includes a list of news items

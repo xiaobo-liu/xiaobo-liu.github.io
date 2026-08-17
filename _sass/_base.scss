@@ -185,9 +185,29 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
+  img {
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  figure {
+    margin-bottom: 0;
+  }
+
+  .caption {
+    margin: 7px 0 16px;
+    color: #666;
+    font-size: 0.8rem;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 1.35;
+    text-align: left;
+  }
+
   .more-info {
     margin-bottom: 5px;
-    margin-top: 5px;
+    margin-top: 0;
     font-family: monospace;
 
     p {
@@ -207,7 +227,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: unquote("max(35%, 320px)");
 
     .address {
       p {
