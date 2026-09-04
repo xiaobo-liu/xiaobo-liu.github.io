@@ -18,8 +18,8 @@ nav_order: 3
 <font size="5">Past</font>
 
 <ul>
-    <li><a href="https://indico3.mpi-magdeburg.mpg.de/event/58/">GAMM Workshop on Applied and Numerical Linear Algebra 2026</a>. Otto-von-Guericke-University Magdeburg, Magdeburg, Germany, September 3-4, 2026.</li>
-    <li><a href="https://indico3.mpi-magdeburg.mpg.de/event/59/">Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra</a>. Otto-von-Guericke-University Magdeburg, Magdeburg, Germany, August 31-September 2, 2026.</li>
+    <li><a href="https://indico3.mpi-magdeburg.mpg.de/event/58/">GAMM Workshop on Applied and Numerical Linear Algebra 2026</a>. Max Planck Institute, Magdeburg, Germany, September 3-4, 2026.</li>
+    <li><a href="https://indico3.mpi-magdeburg.mpg.de/event/59/">Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra</a>. Max Planck Institute, Magdeburg, Germany, August 31-September 2, 2026.</li>
     <li><a href="https://www.siam.org/programs-initiatives/programs/gene-golub-siam-summer-school/">Gene Golub SIAM Summer School 2026: Fault-tolerant Algorithms in Quantum Computing</a>. Duke University, Durham, North Carolina, USA, July 27-August 7, 2026.</li>
     <li><a href="https://www.leeds.ac.uk/">Leeds MSCA Postdoctoral Fellowships Summer School 2026</a>. University of Leeds, Leeds, UK, July 6-10, 2026.</li>
     <li><a href="https://ilas2026.math.vt.edu/">27th Conference of the International Linear Algebra Society</a> (ILAS 2026). Virginia Tech, Blacksburg, Virginia, USA, May 18-22, 2026.</li>
