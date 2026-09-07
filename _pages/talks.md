@@ -10,11 +10,13 @@ nav_order: 4
 <font size="5">2026</font>
 
 <ul>
-<li><a href="../assets/pdf/talk-ACNMLA26.pdf">Reduced- and Mixed-Precision Block Householder QR Factorisation</a>. Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra. Max Planck Institute, Magdeburg, Germany, September 1, 2026.
+<li><a href="../assets/pdf/talk-AMSS26.pdf">Mixed-Precision Algorithms for Linear Matrix Equations</a>.  ICMSEC Seminar, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, September 7, 2026.
 </li>
 
+<li><a href="../assets/pdf/talk-ACNMLA26.pdf">Reduced- and Mixed-Precision Block Householder QR Factorisation</a>. Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra, Max Planck Institute, Magdeburg, Germany, September 1, 2026.
+</li>
 
-<li><a href="../assets/pdf/talk-ILAS26.pdf">Reduced Rank Extrapolation for Low-Rank Matrix Equations</a>. 27th Conference of the International Linear Algebra Society. Virginia Tech, Blacksburg, Virginia, USA, May 18, 2026.
+<li><a href="../assets/pdf/talk-ILAS26.pdf">Reduced Rank Extrapolation for Low-Rank Matrix Equations</a>. 27th Conference of the International Linear Algebra Society, Virginia Tech, Blacksburg, Virginia, USA, May 18, 2026.
 </li>
 
 <li><a href="../assets/pdf/talk-XTU26.pdf">Reduced Rank Extrapolation for Low-Rank Matrix Equations</a>. Shuyun Seminar (数韵学术报告), Xiangtan University, virtual (Xiangtan, China), May 6, 2026.
