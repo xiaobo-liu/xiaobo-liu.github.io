@@ -10,6 +10,9 @@ nav_order: 4
 <font size="5">2026</font>
 
 <ul>
+<li><a href="../assets/pdf/talk-XTU26-Chinese.pdf">Mixed-Precision Algorithms for Linear Matrix Equations (in Chinese)</a>. Shuyun Seminar (数韵学术报告), Xiangtan University, Xiangtan, Hunan, China, September 16, 2026.
+</li>
+
 <li><a href="../assets/pdf/talk-AMSS26.pdf">Mixed-Precision Algorithms for Linear Matrix Equations</a>.  ICMSEC Seminar, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, September 7, 2026.
 </li>
 

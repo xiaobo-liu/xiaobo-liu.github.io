@@ -10,7 +10,7 @@ nav_order: 3
 <font size="5">Upcoming</font>
 
 <ul>
-    <li><a href="https://math.bit.edu.cn/kyxs/xshy/index.htm">2026 Workshop on Numerical Algebra and Optimization</a>. Beijing Institute of Technology, Beijing, China, September 18-20, 2026.</li>
+    <li><a href="https://forum-omca.org/">The 2026 BIT International Workshop on Numerical Analysis and Optimization</a>. Beijing Institute of Technology, Beijing, China, September 18-20, 2026.</li>
     <li><a href="https://sites.google.com/view/fabulous-dfg-scinet/events">The f(A)bulous Scientific Network Meeting II</a>. University of Potsdam, Potsdam, Germany, October 5-7, 2026.</li>
     <li><a href="https://www.birs.ca/events/2027/5-day-workshops/27w5719">The f(A)bulous Workshop on Matrix Functions and Exponential Integrators</a>. Banff International Research Station for Mathematical Innovation and Discovery (BIRS), Alberta, Canada, October 3-8, 2027.</li>
 </ul>
