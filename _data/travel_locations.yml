@@ -1,3 +1,10 @@
+- title: BIT-NAOP
+  location: Beijing, China
+  lat: 39.9042
+  lng: 116.4074
+  date: 2026-09
+  category: conference
+
 - title: Zhang
   location: Xiangtan, Hunan, China
   lat: 27.8313
@@ -5,7 +12,7 @@
   date: 2026-09
   category: visit
 
-- title: Vieublé
+- title: ICMSEC-CAS
   location: Beijing, China
   lat: 39.9042
   lng: 116.4074

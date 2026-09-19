@@ -10,6 +10,10 @@ nav_order: 4
 <font size="5">2026</font>
 
 <ul>
+<li><a href="../assets/pdf/talk-BIT-NAOP26.pdf">Reduced Rank Extrapolation for Low-Rank
+Matrix Equations</a>. 2026 Workshop on Numerical Algebra and Optimization, Beijing Institute of Technology, Beijing, China, September 20, 2026.
+</li>
+
 <li><a href="../assets/pdf/talk-XTU26-Chinese.pdf">Mixed-Precision Algorithms for Linear Matrix Equations (in Chinese)</a>. Shuyun Seminar (数韵学术报告), Xiangtan University, Xiangtan, Hunan, China, September 16, 2026.
 </li>
 
