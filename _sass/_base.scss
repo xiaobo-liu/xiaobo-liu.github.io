@@ -551,6 +551,10 @@ footer.sticky-bottom {
 }
 
 .post-title {
+  .chinese-name {
+    font-family: "SimSun", "Songti SC", "STSong", serif;
+  }
+
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }

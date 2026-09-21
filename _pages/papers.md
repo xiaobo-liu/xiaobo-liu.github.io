@@ -2,7 +2,7 @@
 layout: page
 permalink: /papers/
 title: Papers
-description: Links to peer-reviewed articles, preprints, and my PhD thesis.
+description: Links to peer-reviewed journal articles and book chapters, preprints, and my PhD thesis.
 nav: true
 nav_order: 1
 ---
@@ -256,7 +256,7 @@ nav_order: 1
 
 <ul class="pub-list">
   <li>
-    <a href="https://arxiv.org/abs/2603.12979">Reduced rank extrapolation for multi-term Sylvester equations</a> (with P. Benner, P. den Boef, P. Kürschner, and J. Saak). ArXiv:2603.12979 [math.NA], March 2026.
+    <a href="https://arxiv.org/abs/2603.12979">Reduced rank extrapolation for multi-term Sylvester equations</a> (with P. Benner, P. den Boef, P. Kürschner, and J. Saak). ArXiv:2603.12979 [math.NA], March 2026. To appear as a book chapter in a volume of the Springer INdAM Series.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -266,25 +266,24 @@ nav_order: 1
   month = mar,
   year = 2026,
   type = "{ArXiv}:2603.12979 [math.{NA}]",
-  url = "https://arxiv.org/abs/2603.12979"
+  url = "https://arxiv.org/abs/2603.12979",
+  note = "To appear as a book chapter in a volume of the Springer {INdAM} Series"
 }</code></pre>
       </div>
     </details>
   </li>
 
   <li>
-    <a href="https://arxiv.org/abs/2502.09165">Generalizing reduced rank extrapolation to low-rank matrix sequences</a> (with P. den Boef, P. Kürschner, J. Maubach, J. Saak, W. Schilders, J. Schulze, and N. van de Wouw). ArXiv:2502.09165 [math.NA], February 2025; revised December 2025. To appear in Numer. Algorithms.
+    <a href="https://link.springer.com/article/10.1007/s11075-026-02413-9">Generalizing reduced rank extrapolation to low-rank matrix sequences</a> (with P. den Boef, P. Kürschner, J. Maubach, J. Saak, W. Schilders, J. Schulze, and N. van de Wouw). Numer. Algorithms (2026).
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
-<pre><code>@techreport{dklm25,
-  author = "den Boef, Pascal and Patrick K\"{u}rschner and Xiaobo Liu and Jos Maubach and Jens Saak and Wil Schilders and Jonas Schulze and van de Wouw, Nathan",
+<pre><code>@@article{dklm26,
+  author = "den Boef, Pascal and Patrick K\"{u}rschner and Xiaobo Liu and Joseph Maubach and Jens Saak and Wil Schilders and Jonas Schulze and van de Wouw, Nathan",
   title = "Generalizing reduced rank extrapolation to low-rank matrix sequences",
-  month = feb,
-  year = 2025,
-  type = "{ArXiv}:2502.09165 [math.{NA}]",
-  url = "https://arxiv.org/abs/2502.09165",
-  note = "revised December 2025. To appear in Numer. Algorithms"
+  journal = "Numer. Algorithms",
+  year = 2026,
+  doi = "10.1007/s11075-026-02413-9"
 }</code></pre>
       </div>
     </details>
