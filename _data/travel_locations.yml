@@ -1,3 +1,10 @@
+- title: f(A)bulous II
+  location: Potsdam, Germany
+  lat: 52.3918
+  lng: 13.0636
+  date: 2026-10
+  category: conference
+
 - title: BIT-NAOP
   location: Beijing, China
   lat: 39.9042
@@ -68,7 +75,7 @@
   date: 2026-03
   category: conference
 
-- title: f(A)bulous
+- title: f(A)bulous I
   location: Wuppertal, Germany
   lat: 51.2562
   lng: 7.1508
