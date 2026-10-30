@@ -10,6 +10,8 @@ nav_order: 3
 <font size="5">Upcoming</font>
 
 <ul>
+    <li><a href="https://qec.codes/quop2026/">Workshop on Defining the QuOp: part I</a>. National Physical Laboratory, Teddington, UK, November 4, 2026.</li>
+    <li><a href="https://www.crm.cat/shaping-the-future-of-numerical-linear-algebra-in-europe-3/">Workshop on Shaping the future of Numerical Linear Algebra in Europe</a>. Centre de Recerca Matemàtica, Bellaterra, Spain, January 18-22, 2027.</li>
     <li><a href="https://www.birs.ca/events/2027/5-day-workshops/27w5719">The f(A)bulous Workshop on Matrix Functions and Exponential Integrators</a>. Banff International Research Station for Mathematical Innovation and Discovery (BIRS), Alberta, Canada, October 3-8, 2027.</li>
 </ul>
 

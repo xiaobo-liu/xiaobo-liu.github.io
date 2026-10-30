@@ -176,6 +176,23 @@ nav_order: 1
 
 <ul class="pub-list">
   <li>
+    <a href="https://arxiv.org/abs/2610.38537">Reduced and mixed-precision block Householder QR factorization</a> (with P. Benner, M. Köhler, and E. Oktay). ArXiv:2610.38537 [math.NA], October 2026.
+    <details class="bib-details">
+      <summary>[BibTeX]</summary>
+      <div class="bib-box">
+<pre><code>@techreport{bklo26,
+  author = "Peter Benner and Martin Köhler and Xiaobo Liu and Eda Oktay",
+  title = "Reduced and mixed-precision block {Householder} {QR} factorization",
+  month = oct,
+  year = 2026,
+  type = "{ArXiv}:2610.38537 [math.{NA}]",
+  url = "https://arxiv.org/abs/2610.38537"
+}</code></pre>
+      </div>
+    </details>
+  </li>
+
+  <li>
     <a href="https://arxiv.org/abs/2510.02126">Mixed-precision iterative refinement for low-rank Lyapunov equations</a> (with P. Benner). ArXiv:2510.02126 [math.NA], October 2025. revised May 2026.
     <details class="bib-details">
       <summary>[BibTeX]</summary>

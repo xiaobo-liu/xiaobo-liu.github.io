@@ -28,6 +28,7 @@ nav_order: 2
 <font size="5">Mixed-Precision Methods in Numerical Linear Algebra</font>
 
 <ul>
+    <li> <a href="https://doi.org/10.5281/zenodo.23555819"><b>mpWYQR</b></a><br>Low precision Fortran implementation of reduced- and mixed-precision block Householder QR factorization</li>
     <li> <a href="https://github.com/xiaobo-liu/mpir-lrlyap"><b>mpir-lrlyap</b></a><br>Mixed-precision iterative refinement for low-rank Lyapunov equations.</li>
     <li> <a href="https://github.com/north-numerical-computing/mixed-precision-sylvester"><b>mixed-precision-sylvester</b></a><br>Solving the Sylvester matrix equation in mixed precisions via new iterative refinement schemes.</li> 
     <li> <a href="https://github.com/chenxinye/mhodlr"><b>mhodlr</b></a><br>Matrix computations with Hierarchical Off-Diagonal Low-Rank (HODLR) format and mixed precision.</li>
