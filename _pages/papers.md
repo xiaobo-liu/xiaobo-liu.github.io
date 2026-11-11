@@ -313,7 +313,7 @@ nav_order: 1
 
 <ul class="pub-list">
   <li>
-    <a href="https://arxiv.org/abs/2407.12208">Computing k-means in mixed precision</a> (with E. Carson and X. Chen). ArXiv:2407.12208 [math.NA], July 2024; revised May 2026.
+    <a href="https://arxiv.org/abs/2407.12208">Computing k-means in mixed precision</a> (with E. Carson and X. Chen). ArXiv:2407.12208 [math.NA], July 2024; revised October 2026. To appear in SIAM J. Sci. Comput.
     <details class="bib-details">
       <summary>[BibTeX]</summary>
       <div class="bib-box">
@@ -324,7 +324,7 @@ nav_order: 1
   year = 2024,
   type = "{ArXiv}:2407.12208 [math.{NA}]",
   url = "https://arxiv.org/abs/2407.12208",
-  note = "revised May 2026"
+  note = "revised October 2026. To appear in SIAM J. Sci. Comput."
 }</code></pre>
       </div>
     </details>

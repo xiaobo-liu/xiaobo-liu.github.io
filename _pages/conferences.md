@@ -10,14 +10,15 @@ nav_order: 3
 <font size="5">Upcoming</font>
 
 <ul>
-    <li><a href="https://qec.codes/quop2026/">Workshop on Defining the QuOp: part I</a>. National Physical Laboratory, Teddington, UK, November 4, 2026.</li>
     <li><a href="https://www.crm.cat/shaping-the-future-of-numerical-linear-algebra-in-europe-3/">Workshop on Shaping the future of Numerical Linear Algebra in Europe</a>. Centre de Recerca Matemàtica, Bellaterra, Spain, January 18-22, 2027.</li>
+    <li><a href="https://numericalconference.org/">31st Biennial Numerical Analysis Conference</a>. University of Strathclyde, Glasgow, UK, June 22-25, 2027.</li> 
     <li><a href="https://www.birs.ca/events/2027/5-day-workshops/27w5719">The f(A)bulous Workshop on Matrix Functions and Exponential Integrators</a>. Banff International Research Station for Mathematical Innovation and Discovery (BIRS), Alberta, Canada, October 3-8, 2027.</li>
 </ul>
 
 <font size="5">Past</font>
 
 <ul>
+    <li><a href="https://qec.codes/quop2026/">Workshop on Defining the QuOp: part I</a>. National Physical Laboratory, Teddington, UK, November 4, 2026.</li>
     <li><a href="https://sites.google.com/view/fabulous-dfg-scinet/events">The f(A)bulous Scientific Network Meeting II</a>. University of Potsdam, Potsdam, Germany, October 5-7, 2026.</li>
     <li><a href="https://forum-omca.org/">2026 Workshop on Numerical Algebra and Optimization</a>. Beijing Institute of Technology, Beijing, China, September 18-20, 2026.</li>
     <li><a href="https://indico3.mpi-magdeburg.mpg.de/event/58/">GAMM Workshop on Applied and Numerical Linear Algebra 2026</a>. Max Planck Institute, Magdeburg, Germany, September 3-4, 2026.</li>
